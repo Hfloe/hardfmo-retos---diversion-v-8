@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué estudia la psicología?",
+  "o": [
+   "El comportamiento y los procesos mentales",
+   "Solo el cerebro",
+   "Solo las enfermedades",
+   "Solo los animales"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién es considerado el padre de la psicología moderna y fundó el primer laboratorio en 1879?",
+  "o": [
+   "Sigmund Freud",
+   "Wilhelm Wundt",
+   "Carl Jung",
+   "B.F. Skinner"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se llama la técnica de Freud para explorar el inconsciente?",
+  "o": [
+   "Condicionamiento",
+   "Psicoanálisis",
+   "Conductismo",
+   "Humanismo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué parte del sistema nervioso central procesa las emociones principalmente?",
+  "o": [
+   "Cerebelo",
+   "Sistema límbico",
+   "Médula espinal",
+   "Nervio óptico"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de memoria guarda información por pocos segundos?",
+  "o": [
+   "Memoria a largo plazo",
+   "Memoria sensorial",
+   "Memoria a corto plazo",
+   "Memoria procedimental"
+  ],
+  "c": 2
+ },
+ {
+  "q": "¿Cómo se llama el proceso de aprender por observación de otros?",
+  "o": [
+   "Aprendizaje vicario",
+   "Aprendizaje por castigo",
+   "Aprendizaje autónomo",
+   "Aprendizaje reflejo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es la autoestima?",
+  "o": [
+   "Lo que otros piensan de ti",
+   "Valoración que una persona hace de sí misma",
+   "Una enfermedad",
+   "Un tipo de inteligencia"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué escuela psicológica se enfoca en el estudio del comportamiento observable?",
+  "o": [
+   "Psicoanálisis",
+   "Conductismo",
+   "Gestalt",
+   "Humanismo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué hormona se relaciona con el estrés?",
+  "o": [
+   "Insulina",
+   "Cortisol",
+   "Melatonina",
+   "Tiroxina"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se llama el trastorno caracterizado por tristeza profunda y pérdida de interés por más de dos semanas?",
+  "o": [
+   "Ansiedad",
+   "Depresión mayor",
+   "Fobia",
+   "Esquizofrenia"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es un reflejo?",
+  "o": [
+   "Una decisión consciente",
+   "Respuesta automática e involuntaria a un estímulo",
+   "Un recuerdo",
+   "Un sueño"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Quién propuso la jerarquía de necesidades en forma de pirámide?",
+  "o": [
+   "Jean Piaget",
+   "Abraham Maslow",
+   "Pavlov",
+   "Watson"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la empatía?",
+  "o": [
+   "Juzgar a los demás",
+   "Capacidad de ponerse en el lugar del otro y comprender sus emociones",
+   "Ignorar a los demás",
+   "Manipular emociones"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se llama el psicólogo conocido por el experimento del perro que salivaba al escuchar una campana?",
+  "o": [
+   "Skinner",
+   "Pavlov",
+   "Freud",
+   "Bandura"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la percepción?",
+  "o": [
+   "Solo ver",
+   "Proceso por el cual el cerebro interpreta la información sensorial",
+   "Solo escuchar",
+   "Un trastorno"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué etapa del sueño se asocia con los sueños vívidos?",
+  "o": [
+   "Sueño REM",
+   "Sueño profundo N3",
+   "Vigilia",
+   "Somnolencia"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es la inteligencia según la psicología?",
+  "o": [
+   "Solo saber matemáticas",
+   "Capacidad para resolver problemas, adaptarse y aprender de la experiencia",
+   "Tener buena memoria nada más",
+   "Tener muchos títulos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de psicólogo trata trastornos mentales con terapia sin medicar?",
+  "o": [
+   "Psiquiatra",
+   "Psicólogo clínico",
+   "Neurólogo",
+   "Cardiólogo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es un estereotipo?",
+  "o": [
+   "Una verdad absoluta",
+   "Creencia generalizada y simplificada sobre un grupo de personas",
+   "Un diagnóstico",
+   "Un tipo de memoria"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué emoción básica se caracteriza por la respuesta de huida o lucha?",
+  "o": [
+   "Alegría",
+   "Miedo",
+   "Sorpresa",
+   "Asco"
+  ],
+  "c": 1
+ }
+]

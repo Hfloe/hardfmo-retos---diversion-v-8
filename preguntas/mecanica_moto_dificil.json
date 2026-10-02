@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué significa que un motor sea DOHC vs SOHC?",
+  "o": [
+   "Es lo mismo",
+   "SOHC un solo árbol de levas, DOHC doble árbol de levas, DOHC permite mejor llenado a altas revoluciones",
+   "DOHC es 2 tiempos",
+   "SOHC es diésel"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la relación de compresión y qué afecta si es muy alta con gasolina corriente?",
+  "o": [
+   "Volumen cilindro + cámara / volumen cámara, si es muy alta con bajo octanaje produce detonación o cascabeleo",
+   "Cantidad de aceite",
+   "Tamaño de llanta",
+   "No afecta nada"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es el avance de encendido?",
+  "o": [
+   "Adelantar la chispa antes del punto muerto superior para que la combustión sea completa a altas RPM",
+   "Atrasar la chispa siempre",
+   "Cambiar bujía",
+   "Poner gasolina extra"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es el diagrama de distribución?",
+  "o": [
+   "Dibujo de la moto",
+   "Grados de apertura y cierre de válvulas respecto al giro del cigüeñal",
+   "Diagrama de frenos",
+   "Diagrama de luces"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué causa el ahogamiento en un carburador?",
+  "o": [
+   "Falta de gasolina",
+   "Exceso de gasolina que inunda el cilindro y moja la bujía",
+   "Falta de aire nada más",
+   "Cadena floja"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el efecto de freno motor en 4T?",
+  "o": [
+   "No existe",
+   "Retención que genera el motor al cerrar acelerador por compresión y vacío",
+   "Freno de disco",
+   "Freno ABS"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se diagnostica un estator quemado?",
+  "o": [
+   "A ojo",
+   "Midiendo resistencia entre bobinas y continuidad a masa, y voltaje AC que genera",
+   "Cambiando bujía",
+   "Pateando la moto"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el squish en la cámara de combustión de una 2T?",
+  "o": [
+   "Ruido",
+   "Espacio entre cabeza de pistón y culata que genera turbulencia para mejor combustión",
+   "Aceite quemado",
+   "Gasolina"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué función tiene la válvula de escape tipo YEIS o Válvula de potencia en 2T?",
+  "o": [
+   "No tiene función",
+   "Modifica volumen de escape según RPM para mejorar torque en bajas y potencia en altas",
+   "Solo hace ruido",
+   "Enfría"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el cadenilla vs varilla en distribución 4T?",
+  "o": [
+   "Son iguales",
+   "Cadenilla usa cadena para mover árbol de levas, varilla usa varillas y balancines, cadenilla permite más RPM",
+   "Varilla es mejor para altas RPM",
+   "Cadenilla solo en 2T"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué indica una bujía blanca o muy clara?",
+  "o": [
+   "Mezcla muy pobre o muy caliente, riesgo de perforar pistón",
+   "Mezcla perfecta",
+   "Exceso de aceite",
+   "Que está nueva"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es el par de apriete y por qué es crítico en culata?",
+  "o": [
+   "Apretar a ojo",
+   "Fuerza específica en Newton metro para evitar deformar culata, soplar empaque o barrer roscas",
+   "Solo apretar fuerte",
+   "No importa"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el fenómeno de cavitación en bomba de agua de moto refrigerada por líquido?",
+  "o": [
+   "Burbujas por baja presión que dañan impulsor y reducen flujo",
+   "Más refrigeración",
+   "Ruido normal",
+   "Fuga de aceite"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué diferencia hay entre freno DOT 3, DOT 4 y DOT 5.1?",
+  "o": [
+   "Color solamente",
+   "Punto de ebullición y composición química, DOT 5.1 mayor punto de ebullición que DOT 4 y DOT 3, no se debe mezclar DOT 5 con los demás porque es silicona",
+   "Son todos iguales",
+   "Solo precio"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el mapeo de inyección?",
+  "o": [
+   "Dibujar la moto",
+   "Tabla en la ECU que define cantidad de inyección y avance según RPM, TPS y temperatura",
+   "Mapa de ruta",
+   "Cambiar filtro"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Por qué una moto monocilíndrica vibra más que una bicilíndrica en V a 90 grados?",
+  "o": [
+   "No vibra",
+   "Por desbalance de fuerzas primarias y secundarias del pistón, el V a 90 equilibra mejor",
+   "Porque tiene más aceite",
+   "Por la cadena"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el ángulo de lanzamiento o rake y el trail?",
+  "o": [
+   "No existen",
+   "Ángulo de inclinación de la horquilla y distancia entre eje de dirección y contacto de llanta, afectan estabilidad y agilidad",
+   "Ángulo del escape",
+   "Ángulo de la cadena"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué causa el patinamiento del embrague?",
+  "o": [
+   "Discos gastados, resortes vencidos, aceite incorrecto con aditivos antifricción de carro, o mala regulación",
+   "Cadena nueva",
+   "Bujía nueva",
+   "Llanta nueva"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es una prueba de compresión y de fuga de cilindro?",
+  "o": [
+   "Prueba de frenos",
+   "Medir PSI que genera el pistón, y prueba de fuga con aire a presión para ver por dónde escapa, válvulas, anillos o empaque",
+   "Prueba de luces",
+   "Prueba de aceite"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el efecto de shimmy o bamboleo a alta velocidad?",
+  "o": [
+   "Vibración normal",
+   "Oscilación del tren delantero por desbalance, cunas flojas, llantas deformes o aerodinámica",
+   "Freno ABS activado",
+   "Cadena floja"
+  ],
+  "c": 1
+ }
+]

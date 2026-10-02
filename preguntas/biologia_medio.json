@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Cuál es la función principal de los ribosomas?",
+  "o": [
+   "Almacenar agua",
+   "Síntesis de proteínas",
+   "Fotosíntesis",
+   "Respiración celular"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué bases nitrogenadas forman el ADN?",
+  "o": [
+   "Adenina, Timina, Citosina, Guanina",
+   "Adenina, Uracilo, Citosina, Guanina",
+   "Adenina, Timina, Uracilo, Citosina",
+   "Solo Adenina y Timina"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Dónde ocurre la respiración celular en la célula eucariota?",
+  "o": [
+   "En el cloroplasto",
+   "En la mitocondria",
+   "En el núcleo",
+   "En la vacuola"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es un alelo?",
+  "o": [
+   "Una enfermedad",
+   "Variante de un mismo gen",
+   "Un tipo de célula",
+   "Un cromosoma completo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de sangre puede recibir una persona AB+?",
+  "o": [
+   "Solo AB+",
+   "Solo O-",
+   "Puede recibir de todos, es receptor universal",
+   "Solo A y B"
+  ],
+  "c": 2
+ },
+ {
+  "q": "¿Qué es la ósmosis?",
+  "o": [
+   "Movimiento de proteínas",
+   "Movimiento de agua a través de una membrana semipermeable de menor a mayor concentración de solutos",
+   "División celular",
+   "Síntesis de ADN"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué función cumple la clorofila?",
+  "o": [
+   "Dar color nada más",
+   "Absorber luz para la fotosíntesis",
+   "Almacenar almidón",
+   "Transportar agua"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es la diferencia entre genotipo y fenotipo?",
+  "o": [
+   "Son lo mismo",
+   "Genotipo es la información genética, fenotipo es la expresión observable",
+   "Genotipo es lo visible, fenotipo es lo oculto",
+   "Genotipo solo en plantas"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la homeostasis?",
+  "o": [
+   "Muerte celular",
+   "Capacidad de mantener el equilibrio interno estable",
+   "Crecimiento descontrolado",
+   "Reproducción"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué proceso produce gametos con la mitad de cromosomas?",
+  "o": [
+   "Mitosis",
+   "Meiosis",
+   "Fisión binaria",
+   "Clonación"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de tejido conecta músculos con huesos?",
+  "o": [
+   "Ligamento",
+   "Tendón",
+   "Cartílago",
+   "Nervio"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el código genético?",
+  "o": [
+   "Solo ADN",
+   "Conjunto de reglas por las que la secuencia de nucleótidos se traduce en aminoácidos",
+   "Un libro",
+   "Una proteína"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué hormona regula el crecimiento en humanos?",
+  "o": [
+   "Insulina",
+   "Hormona del crecimiento GH",
+   "Adrenalina",
+   "Melatonina"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es un ecosistema con alta biodiversidad y muchas precipitaciones cerca del ecuador?",
+  "o": [
+   "Desierto",
+   "Selva tropical",
+   "Tundra",
+   "Taiga"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué son los anticuerpos?",
+  "o": [
+   "Células que transportan oxígeno",
+   "Proteínas producidas por linfocitos B que reconocen antígenos",
+   "Virus",
+   "Bacterias"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es la función del ARN mensajero?",
+  "o": [
+   "Transportar oxígeno",
+   "Llevar la información del ADN del núcleo al ribosoma",
+   "Almacenar energía",
+   "Formar la membrana"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la selección natural según Darwin?",
+  "o": [
+   "Los humanos eligen a los animales",
+   "Los individuos mejor adaptados sobreviven y se reproducen",
+   "Todo es al azar sin adaptación",
+   "Solo sobreviven los más grandes"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué grupo sanguíneo tiene antígenos A y B en los glóbulos rojos?",
+  "o": [
+   "O",
+   "A",
+   "B",
+   "AB"
+  ],
+  "c": 3
+ },
+ {
+  "q": "¿Qué es el entrecruzamiento o crossing over?",
+  "o": [
+   "Intercambio de segmentos entre cromátidas de cromosomas homólogos en meiosis que genera variabilidad",
+   "Rotura de la célula",
+   "Unión de dos células",
+   "Muerte del núcleo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué estructura separa el tórax del abdomen y ayuda en la respiración?",
+  "o": [
+   "Diafragma",
+   "Esternón",
+   "Clavícula",
+   "Costilla"
+  ],
+  "c": 0
+ }
+]

@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué cantante colombiana es famosa por la canción \"Hips Don't Lie\"?",
+  "o": [
+   "Shakira",
+   "Karol G",
+   "Greeicy",
+   "Sofía Vergara"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién interpreta a Iron Man en las películas de Marvel?",
+  "o": [
+   "Robert Downey Jr.",
+   "Chris Evans",
+   "Chris Hemsworth",
+   "Mark Ruffalo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿De qué país es el futbolista Lionel Messi?",
+  "o": [
+   "Argentina",
+   "Brasil",
+   "España",
+   "Uruguay"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué cantante es conocido como el \"Rey del Pop\"?",
+  "o": [
+   "Michael Jackson",
+   "Elvis Presley",
+   "Prince",
+   "Justin Bieber"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién creó Facebook?",
+  "o": [
+   "Mark Zuckerberg",
+   "Elon Musk",
+   "Bill Gates",
+   "Jeff Bezos"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actriz interpretó a Hermione en las películas de Harry Potter?",
+  "o": [
+   "Emma Watson",
+   "Emma Stone",
+   "Keira Knightley",
+   "Scarlett Johansson"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿De qué país es el cantante J Balvin?",
+  "o": [
+   "Colombia",
+   "México",
+   "Puerto Rico",
+   "España"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué futbolista portugués es conocido como \"CR7\"?",
+  "o": [
+   "Cristiano Ronaldo",
+   "Pepe",
+   "Bruno Fernandes",
+   "Luis Figo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién canta \"Shake It Off\"?",
+  "o": [
+   "Taylor Swift",
+   "Adele",
+   "Rihanna",
+   "Beyoncé"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actor interpretó a Jack Sparrow en \"Piratas del Caribe\"?",
+  "o": [
+   "Johnny Depp",
+   "Brad Pitt",
+   "Orlando Bloom",
+   "Tom Cruise"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Con qué cantante hizo Daddy Yankee la canción \"Despacito\"?",
+  "o": [
+   "Luis Fonsi",
+   "Ricky Martin",
+   "Marc Anthony",
+   "Enrique Iglesias"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué tenista suizo ganó 20 títulos de Grand Slam?",
+  "o": [
+   "Roger Federer",
+   "Rafael Nadal",
+   "Novak Djokovic",
+   "Andy Murray"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién canta \"Rolling in the Deep\"?",
+  "o": [
+   "Adele",
+   "Lady Gaga",
+   "Katy Perry",
+   "Shakira"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actor es conocido como \"La Roca\"?",
+  "o": [
+   "Dwayne Johnson",
+   "Vin Diesel",
+   "Jason Statham",
+   "John Cena"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué cantante colombiano hizo \"La bicicleta\" junto a Shakira?",
+  "o": [
+   "Carlos Vives",
+   "Maluma",
+   "Juanes",
+   "Fonseca"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién interpretó a Jack Dawson en la película \"Titanic\"?",
+  "o": [
+   "Leonardo DiCaprio",
+   "Brad Pitt",
+   "Matt Damon",
+   "Tom Hanks"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué cantante es conocida como la \"Reina del Pop\"?",
+  "o": [
+   "Madonna",
+   "Beyoncé",
+   "Lady Gaga",
+   "Britney Spears"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué futbolista brasileño jugó con Messi en el Barcelona y en el PSG?",
+  "o": [
+   "Neymar",
+   "Ronaldinho",
+   "Kaká",
+   "Rivaldo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál de estos artistas fue integrante de The Beatles?",
+  "o": [
+   "Paul McCartney",
+   "Mick Jagger",
+   "Freddie Mercury",
+   "Elton John"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actriz colombiana participa en la serie \"Modern Family\"?",
+  "o": [
+   "Sofía Vergara",
+   "Salma Hayek",
+   "Shakira",
+   "Ana de Armas"
+  ],
+  "c": 0
+ }
+]

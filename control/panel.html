@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8"><title>Panel de control - CHMAGSECRET</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+body{font-family:system-ui,sans-serif;background:#0b1030;color:#fff;max-width:640px;margin:30px auto;padding:0 16px}
+h1{color:#ffd867}label{display:block;margin-top:16px;font-weight:600}
+input[type=text],input[type=number],textarea{width:100%;padding:10px;border-radius:8px;border:1px solid #e8b94a;background:#151b45;color:#fff;box-sizing:border-box;font-size:16px}
+small{color:#aab}button{margin-top:22px;padding:14px 22px;border:0;border-radius:12px;background:#e8b94a;color:#2a1a00;font-size:17px;font-weight:700;cursor:pointer;margin-right:8px}
+pre{background:#000;padding:14px;border-radius:8px;overflow:auto}.row{display:flex;align-items:center;gap:10px;margin-top:16px}
+</style></head><body>
+<h1>Panel de control</h1>
+<p><small>Edita los valores, descarga <b>config.json</b> y súbelo a tu hosting (ver LEEME.txt). Los jugadores lo reciben al abrir el juego.</small></p>
+<label>Versión mínima permitida
+<input type="number" id="vmin" value="1" min="0"></label>
+<small>Todo APK con VERSION_ACTUAL menor a este número se bloquea. Publicas la v2 → pon 2 aquí.</small>
+<div class="row"><input type="checkbox" id="mant"><label style="margin:0" for="mant">Modo mantenimiento (bloquea el juego para todos)</label></div>
+<label>Mensaje personalizado (opcional)<textarea id="msg" rows="2"></textarea></label>
+<label>Enlace para descargar la actualización<input type="text" id="url" placeholder="https://..."></label>
+<label>Número de Nequi<input type="text" id="nequi" value="300 127 2040"></label>
+<label>Tiradas gratis<input type="number" id="tir" value="300" min="0"></label>
+<button onclick="descargar()">Descargar config.json</button><button onclick="copiar()">Copiar</button>
+<pre id="out"></pre>
+<script>
+function gen(){return JSON.stringify({version_minima:+vmin.value,mantenimiento:mant.checked,mensaje:msg.value,url_actualizacion:url.value,nequi_numero:nequi.value,tiradas_gratis:+tir.value},null,2)}
+function refrescar(){out.textContent=gen()}
+document.querySelectorAll('input,textarea').forEach(e=>e.addEventListener('input',refrescar));refrescar();
+function descargar(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([gen()],{type:'application/json'}));a.download='config.json';a.click()}
+function copiar(){navigator.clipboard.writeText(gen())}
+</script></body></html>

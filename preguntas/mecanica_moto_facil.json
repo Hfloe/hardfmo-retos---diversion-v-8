@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué tipo de motor usa la mayoría de motos actuales de calle?",
+  "o": [
+   "2 tiempos",
+   "4 tiempos",
+   "Diésel",
+   "Eléctrico de vapor"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué combustible usa una moto a gasolina convencional?",
+  "o": [
+   "ACPM",
+   "Gasolina",
+   "Kerosene",
+   "Agua"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Para qué sirve el casco en la moto?",
+  "o": [
+   "Solo estética",
+   "Protección de la cabeza del piloto",
+   "Para ir más rápido",
+   "Para guardar gasolina"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Dónde se encuentra el freno delantero en la mayoría de motos?",
+  "o": [
+   "Pie izquierdo",
+   "Mano derecha",
+   "Pie derecho",
+   "Mano izquierda"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué elemento transmite la potencia del motor a la rueda trasera en la mayoría de motos de baja cilindrada?",
+  "o": [
+   "Correa de tiempo",
+   "Cadena",
+   "Varilla",
+   "Cable de clutch"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué indica la luz de aceite encendida en el tablero?",
+  "o": [
+   "Que falta gasolina",
+   "Baja presión o nivel de aceite",
+   "Que el neumático está bajo",
+   "Que la cadena está floja"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué función tiene la bujía?",
+  "o": [
+   "Filtrar aire",
+   "Generar chispa para encender la mezcla",
+   "Frenar la moto",
+   "Enfriar el motor"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se llama el líquido que refrigera algunas motos por agua?",
+  "o": [
+   "Líquido de frenos",
+   "Refrigerante o coolant",
+   "Aceite 2T",
+   "Gasolina"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué parte sostiene la moto cuando está estacionada?",
+  "o": [
+   "Gato o pata lateral / central",
+   "Manubrio",
+   "Exosto",
+   "Tanque"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué debe revisarse antes de salir en moto?",
+  "o": [
+   "Solo el color",
+   "Llantas, frenos, luces, aceite y gasolina",
+   "Solo el pito",
+   "Solo el espejo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué significa CC en una moto 150cc?",
+  "o": [
+   "Centímetros cúbicos, cilindrada del motor",
+   "Caballos de carga",
+   "Consumo de combustible",
+   "Capacidad de carga"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Dónde va el pie para hacer los cambios en una moto estándar?",
+  "o": [
+   "Pie derecho",
+   "Pie izquierdo, palanca de cambios",
+   "Mano derecha",
+   "Mano izquierda"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué freno es más potente en una moto?",
+  "o": [
+   "Trasero siempre",
+   "Delantero, proporciona el 70% del frenado",
+   "Ambos igual siempre",
+   "Ninguno"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué elemento filtra el polvo que entra al motor?",
+  "o": [
+   "Filtro de aceite",
+   "Filtro de aire",
+   "Filtro de gasolina",
+   "Filtro de luz"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el exosto o escape?",
+  "o": [
+   "Sistema que expulsa gases quemados del motor",
+   "Sistema que guarda gasolina",
+   "Sistema de luces",
+   "Sistema de frenos"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué tipo de casco ofrece mayor protección?",
+  "o": [
+   "Medio casco",
+   "Casco integral",
+   "Gorra",
+   "Sin casco"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cada cuánto se debe cambiar el aceite en una moto de calle promedio?",
+  "o": [
+   "Cada 10 años",
+   "Cada 2000 a 3000 km según manual",
+   "Nunca",
+   "Cada 50000 km"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué hace el clutch o embrague?",
+  "o": [
+   "Acelera",
+   "Desconecta temporalmente el motor de la transmisión para cambiar de marcha",
+   "Frena",
+   "Enciende luces"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué indica que una cadena está muy floja?",
+  "o": [
+   "Ruido, latigazo y posible salida de la cadena",
+   "Más velocidad",
+   "Más brillo",
+   "Nada"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es el tablero o tacómetro?",
+  "o": [
+   "Donde se muestra velocidad, revoluciones y testigos",
+   "Donde se guarda la herramienta",
+   "El asiento",
+   "El tanque"
+  ],
+  "c": 0
+ }
+]

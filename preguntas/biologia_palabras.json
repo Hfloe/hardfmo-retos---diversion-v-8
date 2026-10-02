@@ -1,0 +1,152 @@
+[
+ {
+  "p": "CELULA",
+  "t": "Célula",
+  "d": "Unidad básica de todo ser vivo"
+ },
+ {
+  "p": "NUCLEO",
+  "t": "Núcleo",
+  "d": "Parte de la célula que guarda el ADN"
+ },
+ {
+  "p": "GENOMA",
+  "t": "Genoma",
+  "d": "Conjunto de todos los genes de un ser vivo"
+ },
+ {
+  "p": "TEJIDO",
+  "t": "Tejido",
+  "d": "Conjunto de células con la misma función"
+ },
+ {
+  "p": "ORGANO",
+  "t": "Órgano",
+  "d": "Parte del cuerpo con una función definida"
+ },
+ {
+  "p": "ESPECIE",
+  "t": "Especie",
+  "d": "Grupo de seres que pueden reproducirse entre sí"
+ },
+ {
+  "p": "CLOROFILA",
+  "t": "Clorofila",
+  "d": "Pigmento verde de las plantas"
+ },
+ {
+  "p": "MITOSIS",
+  "t": "Mitosis",
+  "d": "División celular que produce células idénticas"
+ },
+ {
+  "p": "MEIOSIS",
+  "t": "Meiosis",
+  "d": "División que origina las células sexuales"
+ },
+ {
+  "p": "HABITAT",
+  "t": "Hábitat",
+  "d": "Lugar donde vive una especie"
+ },
+ {
+  "p": "BACTERIA",
+  "t": "Bacteria",
+  "d": "Ser vivo unicelular sin núcleo"
+ },
+ {
+  "p": "VIRUS",
+  "t": "Virus",
+  "d": "Agente infeccioso muy pequeño"
+ },
+ {
+  "p": "HONGO",
+  "t": "Hongo",
+  "d": "Organismo como la levadura o el moho"
+ },
+ {
+  "p": "ENZIMA",
+  "t": "Enzima",
+  "d": "Proteína que acelera reacciones químicas"
+ },
+ {
+  "p": "PROTEINA",
+  "t": "Proteína",
+  "d": "Molécula formada por aminoácidos"
+ },
+ {
+  "p": "EVOLUCION",
+  "t": "Evolución",
+  "d": "Cambio de las especies con el paso del tiempo"
+ },
+ {
+  "p": "DARWIN",
+  "t": "Darwin",
+  "d": "Propuso la selección natural"
+ },
+ {
+  "p": "MENDEL",
+  "t": "Mendel",
+  "d": "Padre de la genética"
+ },
+ {
+  "p": "HERENCIA",
+  "t": "Herencia",
+  "d": "Transmisión de rasgos de padres a hijos"
+ },
+ {
+  "p": "ANFIBIO",
+  "t": "Anfibio",
+  "d": "Animal que vive en el agua y en la tierra"
+ },
+ {
+  "p": "REPTIL",
+  "t": "Reptil",
+  "d": "Vertebrado de piel con escamas"
+ },
+ {
+  "p": "MAMIFERO",
+  "t": "Mamífero",
+  "d": "Animal que amamanta a sus crías"
+ },
+ {
+  "p": "OXIGENO",
+  "t": "Oxígeno",
+  "d": "Gas que necesitamos para respirar"
+ },
+ {
+  "p": "CROMOSOMA",
+  "t": "Cromosoma",
+  "d": "Estructura que lleva el ADN"
+ },
+ {
+  "p": "RIBOSOMA",
+  "t": "Ribosoma",
+  "d": "Fabrica proteínas dentro de la célula"
+ },
+ {
+  "p": "SANGRE",
+  "t": "Sangre",
+  "d": "Líquido que recorre el cuerpo"
+ },
+ {
+  "p": "PULMON",
+  "t": "Pulmón",
+  "d": "Órgano de la respiración"
+ },
+ {
+  "p": "NEURONA",
+  "t": "Neurona",
+  "d": "Célula del sistema nervioso"
+ },
+ {
+  "p": "POLINIZAR",
+  "t": "Polinizar",
+  "d": "Llevar el polen de flor en flor"
+ },
+ {
+  "p": "CARNIVORO",
+  "t": "Carnívoro",
+  "d": "Animal que se alimenta de carne"
+ }
+]

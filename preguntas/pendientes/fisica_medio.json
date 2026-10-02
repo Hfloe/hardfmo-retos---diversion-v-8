@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Cuál es la fórmula de la segunda ley de Newton?",
+  "o": [
+   "F = m · a",
+   "F = m / a",
+   "V = I · R",
+   "E = m · c²"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el valor aproximado de la aceleración de la gravedad en la Tierra?",
+  "o": [
+   "9,8 m/s²",
+   "8,9 m/s²",
+   "10,8 m/s²",
+   "6,7 m/s²"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué establece la ley de Ohm?",
+  "o": [
+   "V = I · R",
+   "P = V · t",
+   "F = m · a",
+   "E = h · f"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la unidad de resistencia eléctrica?",
+  "o": [
+   "Ohmio",
+   "Voltio",
+   "Amperio",
+   "Faradio"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se llama la desviación de la luz al pasar de un medio a otro?",
+  "o": [
+   "Refracción",
+   "Reflexión",
+   "Difracción",
+   "Polarización"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué energía almacena un resorte comprimido?",
+  "o": [
+   "Potencial elástica",
+   "Cinética",
+   "Térmica",
+   "Nuclear"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué mide un voltímetro?",
+  "o": [
+   "La diferencia de potencial",
+   "La corriente",
+   "La resistencia",
+   "La potencia"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Un objeto de 2 kg se mueve a 3 m/s. ¿Cuál es su energía cinética?",
+  "o": [
+   "9 J",
+   "6 J",
+   "18 J",
+   "3 J"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es la inercia?",
+  "o": [
+   "La tendencia de un cuerpo a mantener su estado de reposo o movimiento",
+   "Una fuerza que frena los cuerpos",
+   "Energía almacenada en un resorte",
+   "La resistencia al calor"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la unidad de frecuencia?",
+  "o": [
+   "Hertz",
+   "Decibelio",
+   "Tesla",
+   "Pascal"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuánto vale la presión atmosférica normal al nivel del mar?",
+  "o": [
+   "101.325 Pa",
+   "1.013 Pa",
+   "10.132 Pa",
+   "1.013.250 Pa"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué principio explica por qué flotan los barcos?",
+  "o": [
+   "Principio de Arquímedes",
+   "Principio de Pascal",
+   "Principio de Bernoulli",
+   "Ley de Hooke"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se llama el paso directo de sólido a gas?",
+  "o": [
+   "Sublimación",
+   "Evaporación",
+   "Fusión",
+   "Condensación"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el valor del cero absoluto en grados Celsius?",
+  "o": [
+   "-273,15 °C",
+   "-100 °C",
+   "-373,15 °C",
+   "0 °C"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué tipo de onda es la luz?",
+  "o": [
+   "Electromagnética",
+   "Mecánica",
+   "Sonora",
+   "Longitudinal"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la unidad del campo magnético en el Sistema Internacional?",
+  "o": [
+   "Tesla",
+   "Henrio",
+   "Coulomb",
+   "Faradio"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Si se duplica la velocidad de un objeto, su energía cinética...",
+  "o": [
+   "Se cuadruplica",
+   "Se duplica",
+   "Se mantiene igual",
+   "Se reduce a la mitad"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué dice la tercera ley de Newton?",
+  "o": [
+   "A toda acción corresponde una reacción igual y opuesta",
+   "La fuerza es masa por aceleración",
+   "Un cuerpo en reposo sigue en reposo",
+   "La energía no se crea ni se destruye"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuántos julios hay en un kilojulio?",
+  "o": [
+   "1000",
+   "100",
+   "10.000",
+   "10"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál de estas lentes es convergente?",
+  "o": [
+   "La convexa, más gruesa en el centro",
+   "La cóncava, más delgada en el centro",
+   "La plana",
+   "La cilíndrica"
+  ],
+  "c": 0
+ }
+]

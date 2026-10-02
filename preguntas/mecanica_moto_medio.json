@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Cuál es el ciclo completo de un motor 4 tiempos?",
+  "o": [
+   "Admisión, compresión, explosión, escape",
+   "Solo admisión y escape",
+   "Chispa y gasolina",
+   "Aire y aceite"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué diferencia principal hay entre un motor 2T y 4T?",
+  "o": [
+   "No hay diferencia",
+   "2T hace el ciclo en 2 movimientos del pistón y usa mezcla de aceite con gasolina, 4T en 4 movimientos y tiene cárter con aceite separado",
+   "2T es más grande",
+   "4T no usa bujía"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué función tiene el carburador?",
+  "o": [
+   "Enfriar el motor",
+   "Mezclar aire y gasolina en proporción correcta",
+   "Cargar batería",
+   "Frenar"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué significa que una moto sea inyección electrónica EFI?",
+  "o": [
+   "Que no tiene inyectores",
+   "Que la gasolina es dosificada por un inyector controlado por ECU",
+   "Que usa carburador",
+   "Que es eléctrica"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el reglaje de válvulas?",
+  "o": [
+   "Ajustar la holgura entre balancín y válvula para que cierre y abra correctamente",
+   "Pintar válvulas",
+   "Cambiar llantas",
+   "Apretar cadena"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué pasa si la holgura de válvulas está muy cerrada?",
+  "o": [
+   "Nada",
+   "La válvula no cierra bien, pierde compresión y puede quemarse",
+   "Más potencia siempre",
+   "Más aceite"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Para qué sirve el CDI o TCI?",
+  "o": [
+   "Para inflar llantas",
+   "Es la unidad que controla el momento de la chispa en el encendido",
+   "Para filtrar aceite",
+   "Para regular frenos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de refrigeración es más eficiente para altas cilindradas?",
+  "o": [
+   "Solo aire",
+   "Líquida por refrigerante con radiador",
+   "Sin refrigeración",
+   "Solo aceite sin radiador"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el kit de arrastre?",
+  "o": [
+   "Solo la cadena",
+   "Conjunto de piñón de salida, corona trasera y cadena",
+   "Kit de herramientas",
+   "Kit de frenos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué relación de transmisión da más fuerza y menos velocidad final?",
+  "o": [
+   "Piñón pequeño y corona grande",
+   "Piñón grande y corona pequeña",
+   "Piñón y corona iguales",
+   "Sin cadena"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué indica humo azul en el escape de una moto 4T?",
+  "o": [
+   "Que está quemando aceite, posible desgaste de anillos o sellos de válvula",
+   "Que está fría",
+   "Que es normal siempre",
+   "Que tiene mucha gasolina"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué indica humo negro en el escape?",
+  "o": [
+   "Mezcla rica, exceso de gasolina",
+   "Quema de aceite",
+   "Falta de gasolina",
+   "Agua en el escape"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es el torque y la potencia?",
+  "o": [
+   "Son lo mismo",
+   "Torque es fuerza de giro, potencia es trabajo por tiempo, torque da arranque, potencia da velocidad final",
+   "Torque es velocidad",
+   "Potencia es frenado"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué función tiene el regulador rectificador?",
+  "o": [
+   "Convertir corriente alterna del estator en continua y regular voltaje para cargar batería",
+   "Filtrar gasolina",
+   "Mezclar aire",
+   "Frenar"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Por qué se debe purgar el sistema de freno hidráulico?",
+  "o": [
+   "Para cambiar color del líquido",
+   "Para sacar aire del sistema y que el freno no quede esponjoso",
+   "Para que pese menos",
+   "No se debe purgar nunca"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de freno es más moderno y evita bloqueo?",
+  "o": [
+   "Tambor",
+   "Disco con ABS",
+   "Freno de pie",
+   "Freno de mano"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el chicler en un carburador?",
+  "o": [
+   "Un tornillo que dosifica el paso de gasolina",
+   "Una luz",
+   "Una llanta",
+   "Un cable"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué pasa si la cadena está demasiado tensa?",
+  "o": [
+   "Mejor rendimiento",
+   "Desgaste prematuro de rodamientos, piñón, corona y eje de salida",
+   "Más velocidad",
+   "Nada"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué aceite se usa en la caja de una moto 2T?",
+  "o": [
+   "El mismo de la mezcla",
+   "Aceite para transmisión 2T o aceite de caja específico",
+   "Aceite de cocina",
+   "Líquido de frenos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el embrague centrífugo de una moto automática o semiautomática?",
+  "o": [
+   "No existe",
+   "Sistema que embraga según revoluciones sin maneta de clutch",
+   "Freno",
+   "Acelerador"
+  ],
+  "c": 1
+ }
+]

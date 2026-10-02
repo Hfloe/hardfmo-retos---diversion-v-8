@@ -1,0 +1,16 @@
+CHMAGSECRET — SEGURIDAD PREMIUM
+
+El APK nunca debe decidir por sí solo que una compra fue válida.
+
+Flujo recomendado:
+1. Wompi procesa el pago.
+2. El backend recibe/consulta el estado de la transacción.
+3. El backend valida que la transacción esté aprobada.
+4. El backend identifica al usuario y actualiza Firestore:
+   users/{uid}.premiumUntil = timestamp
+5. El backend valida Play Integrity para reducir abuso desde APK modificados.
+6. La app consulta el backend por HTTPS.
+7. Solo una respuesta autenticada del servidor permite llamar a:
+   Paywall._payment_verified()
+
+Nunca coloques claves secretas de Firebase, Wompi o del backend dentro del APK.

@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Cuál es la Ley del Mínimo de Liebig?",
+  "o": [
+   "El crecimiento depende del nutriente más abundante",
+   "El crecimiento está limitado por el nutriente más escaso respecto a su necesidad",
+   "Todos los nutrientes son iguales",
+   "No hay nutrientes limitantes"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la Capacidad de Intercambio Catiónico CIC?",
+  "o": [
+   "Capacidad del suelo de retener e intercambiar cationes como Ca, Mg, K, medida en cmol/kg",
+   "Capacidad de retener agua nada más",
+   "Capacidad de producir semillas",
+   "Capacidad de filtrar luz"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué diferencia hay entre suelo salino y sódico?",
+  "o": [
+   "Son lo mismo",
+   "Salino tiene exceso de sales totales con pH menor a 8.5, sódico tiene exceso de sodio intercambiable y pH mayor a 8.5 con dispersión de arcillas",
+   "Sódico es bueno siempre",
+   "Salino no afecta cultivos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el potencial hídrico y sus componentes?",
+  "o": [
+   "Solo gravedad",
+   "Suma de potencial osmótico, mátrico, de presión y gravitacional que determina movimiento de agua",
+   "Solo lluvia",
+   "Solo riego"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la fijación biológica de nitrógeno?",
+  "o": [
+   "Proceso industrial",
+   "Conversión de N2 atmosférico a amonio por bacterias como Rhizobium en simbiosis con leguminosas",
+   "Pérdida de nitrógeno",
+   "Aplicación de urea nada más"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el coeficiente de cultivo Kc en riego?",
+  "o": [
+   "Factor que relaciona evapotranspiración del cultivo con evapotranspiración de referencia",
+   "Peso del cultivo",
+   "Altura del cultivo",
+   "Color del cultivo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué tipo de fotosíntesis realiza la piña y el agave para ahorrar agua?",
+  "o": [
+   "C3",
+   "C4",
+   "CAM, abre estomas de noche",
+   "No hacen fotosíntesis"
+  ],
+  "c": 2
+ },
+ {
+  "q": "¿Qué es la alelopatía?",
+  "o": [
+   "Simbiosis positiva siempre",
+   "Efecto químico de una planta sobre otra inhibiendo o estimulando germinación y crecimiento",
+   "Enfermedad",
+   "Polinización"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el punto de compensación de luz?",
+  "o": [
+   "Luz donde fotosíntesis iguala respiración",
+   "Luz máxima",
+   "Luz cero",
+   "Luz artificial"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la eficiencia de uso del nitrógeno y por qué se pierde?",
+  "o": [
+   "100% siempre",
+   "30-50% por volatilización de amoniaco, lixiviación de nitratos y desnitrificación",
+   "0%",
+   "No se pierde nunca"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la curva de absorción de nutrientes de un cultivo?",
+  "o": [
+   "Cantidad de nutrientes que absorbe a lo largo de su ciclo fenológico para planear fertilización fraccionada",
+   "Curva de agua nada más",
+   "Curva de luz",
+   "Curva de temperatura"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es el manejo integrado de plagas MIP?",
+  "o": [
+   "Solo usar insecticidas",
+   "Combinación de control cultural, biológico, etológico, genético y químico racional con monitoreo y umbral de acción",
+   "No hacer nada",
+   "Quemar todo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la acidez intercambiable con aluminio en suelos ácidos tropicales?",
+  "o": [
+   "No existe",
+   "Aluminio soluble que es tóxico para raíces y se corrige con encalado",
+   "Beneficioso siempre",
+   "Solo pH alto"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el índice de cosecha?",
+  "o": [
+   "Relación entre biomasa de grano o producto económico y biomasa total aérea",
+   "Número de cosechas por año",
+   "Peso de hojas",
+   "Altura de cosecha"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es la estratificación de semillas?",
+  "o": [
+   "Pintar semillas",
+   "Tratamiento de frío húmedo para romper dormancia",
+   "Calentar semillas",
+   "Mojar semillas con veneno"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué ecuación describe la pérdida de suelo por erosión hídrica?",
+  "o": [
+   "Ecuación Universal de Pérdida de Suelo USLE, A = R x K x LS x C x P",
+   "F = m x a",
+   "pH = -log H+",
+   "E = mc2"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es el fotoperiodo crítico en plantas de día corto?",
+  "o": [
+   "Necesitan menos de cierto número de horas de luz para florecer",
+   "Necesitan más de 16 horas para florecer",
+   "No necesitan luz",
+   "Florecen siempre"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es la agricultura de precisión?",
+  "o": [
+   "Sembrar a ojo",
+   "Uso de GPS, sensores, drones y dosis variable para manejar variabilidad espacial del lote",
+   "Sembrar con pala",
+   "Agricultura sin tecnología"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué diferencia hay entre herbicida sistémico y de contacto?",
+  "o": [
+   "Son iguales",
+   "Sistémico se transloca por floema y xilema y mata toda la planta, contacto solo quema donde toca",
+   "Contacto mata raíces siempre",
+   "Sistémico no mata nada"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el priming o acondicionamiento de semillas?",
+  "o": [
+   "Pintar semillas de colores",
+   "Hidratación controlada para activar metabolismo sin que emerja radícula, mejorando vigor y uniformidad",
+   "Secar semillas al sol",
+   "Congelar semillas"
+  ],
+  "c": 1
+ }
+]

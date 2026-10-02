@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué propuso Jean Piaget en su teoría?",
+  "o": [
+   "Teoría del desarrollo cognitivo por etapas",
+   "Teoría del inconsciente",
+   "Teoría del condicionamiento operante",
+   "Teoría de la disonancia cognitiva"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la diferencia entre condicionamiento clásico y operante?",
+  "o": [
+   "No hay diferencia",
+   "Clásico asocia estímulos, operante asocia conducta con consecuencias",
+   "Clásico es solo en humanos",
+   "Operante es solo en animales"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la disonancia cognitiva según Festinger?",
+  "o": [
+   "Malestar por tener dos creencias contradictorias",
+   "Pérdida de memoria",
+   "Exceso de felicidad",
+   "Trastorno del sueño"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué evalúa el test de Rorschach?",
+  "o": [
+   "Inteligencia",
+   "Personalidad a través de interpretación de manchas de tinta",
+   "Memoria",
+   "Coeficiente intelectual"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué neurotransmisor se asocia principalmente con el placer y la recompensa?",
+  "o": [
+   "Acetilcolina",
+   "Dopamina",
+   "GABA",
+   "Serotonina solo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el apego según Bowlby?",
+  "o": [
+   "Un trastorno",
+   "Vínculo emocional profundo entre el niño y su cuidador principal",
+   "Una técnica de estudio",
+   "Un tipo de fobia"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué describe el experimento de Milgram?",
+  "o": [
+   "Memoria",
+   "Obediencia a la autoridad",
+   "Percepción visual",
+   "Inteligencia"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la indefensión aprendida según Seligman?",
+  "o": [
+   "Estado donde la persona aprende que no puede controlar eventos negativos y deja de intentarlo",
+   "Aprender a defenderse",
+   "Ser muy optimista",
+   "Trastorno del lenguaje"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué parte del cerebro se encarga de la toma de decisiones y control de impulsos?",
+  "o": [
+   "Lóbulo occipital",
+   "Lóbulo frontal",
+   "Lóbulo parietal",
+   "Tronco encefálico"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la resiliencia psicológica?",
+  "o": [
+   "No tener emociones",
+   "Capacidad de recuperarse y adaptarse ante la adversidad",
+   "Ser siempre feliz",
+   "Olvidar todo lo malo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de trastorno es la anorexia nerviosa?",
+  "o": [
+   "Trastorno de ansiedad",
+   "Trastorno de la conducta alimentaria",
+   "Trastorno psicótico",
+   "Trastorno del sueño"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué propuso Erikson en sus 8 etapas?",
+  "o": [
+   "Desarrollo motor",
+   "Desarrollo psicosocial a lo largo de la vida",
+   "Desarrollo del lenguaje",
+   "Desarrollo de la vista"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la profecía autocumplida?",
+  "o": [
+   "Una predicción que se hace realidad porque se actúa como si fuera cierta",
+   "Adivinar el futuro",
+   "Un tipo de amnesia",
+   "Un test de inteligencia"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es la inteligencia emocional según Goleman?",
+  "o": [
+   "Solo IQ alto",
+   "Capacidad de reconocer, entender y gestionar emociones propias y ajenas",
+   "No tener emociones",
+   "Ser extrovertido"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué fenómeno explica que recordemos mejor el principio y el final de una lista?",
+  "o": [
+   "Efecto de primacía y recencia",
+   "Efecto placebo",
+   "Efecto halo",
+   "Efecto Pigmalión"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es el refuerzo negativo en conductismo?",
+  "o": [
+   "Castigar",
+   "Quitar un estímulo aversivo para aumentar una conducta",
+   "Dar un premio",
+   "Ignorar la conducta"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué caracteriza a la personalidad tipo A?",
+  "o": [
+   "Relajada",
+   "Competitiva, impaciente y propensa al estrés",
+   "Tímida",
+   "Sin emociones"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la catarsis en psicoanálisis?",
+  "o": [
+   "Reprimir emociones",
+   "Liberación emocional al expresar un conflicto reprimido",
+   "Olvidar",
+   "Dormir"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué evalúa la escala de Wechsler WAIS?",
+  "o": [
+   "Personalidad",
+   "Inteligencia en adultos",
+   "Depresión",
+   "Ansiedad"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la zona de desarrollo próximo según Vygotsky?",
+  "o": [
+   "Lo que el niño ya sabe hacer solo",
+   "Distancia entre lo que puede hacer solo y lo que puede hacer con ayuda",
+   "Lo que nunca podrá hacer",
+   "El patio de recreo"
+  ],
+  "c": 1
+ }
+]

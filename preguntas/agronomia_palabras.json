@@ -1,0 +1,152 @@
+[
+ {
+  "p": "SUELO",
+  "t": "Suelo",
+  "d": "Capa donde crecen las plantas"
+ },
+ {
+  "p": "SEMILLA",
+  "t": "Semilla",
+  "d": "Grano que origina una nueva planta"
+ },
+ {
+  "p": "CULTIVO",
+  "t": "Cultivo",
+  "d": "Plantas sembradas para producir alimento"
+ },
+ {
+  "p": "RIEGO",
+  "t": "Riego",
+  "d": "Aporte de agua a los cultivos"
+ },
+ {
+  "p": "ABONO",
+  "t": "Abono",
+  "d": "Sustancia que nutre el suelo"
+ },
+ {
+  "p": "COSECHA",
+  "t": "Cosecha",
+  "d": "Recolección de los frutos maduros"
+ },
+ {
+  "p": "SIEMBRA",
+  "t": "Siembra",
+  "d": "Acción de depositar semillas en la tierra"
+ },
+ {
+  "p": "PLAGA",
+  "t": "Plaga",
+  "d": "Organismo que daña los cultivos"
+ },
+ {
+  "p": "MALEZA",
+  "t": "Maleza",
+  "d": "Planta no deseada entre los cultivos"
+ },
+ {
+  "p": "ARADO",
+  "t": "Arado",
+  "d": "Herramienta que remueve la tierra"
+ },
+ {
+  "p": "RAIZ",
+  "t": "Raíz",
+  "d": "Parte de la planta que absorbe el agua"
+ },
+ {
+  "p": "TALLO",
+  "t": "Tallo",
+  "d": "Sostiene las hojas y flores de la planta"
+ },
+ {
+  "p": "HOJA",
+  "t": "Hoja",
+  "d": "Órgano donde ocurre la fotosíntesis"
+ },
+ {
+  "p": "FRUTO",
+  "t": "Fruto",
+  "d": "Órgano que contiene las semillas"
+ },
+ {
+  "p": "VIVERO",
+  "t": "Vivero",
+  "d": "Lugar donde se crían plantas jóvenes"
+ },
+ {
+  "p": "COMPOST",
+  "t": "Compost",
+  "d": "Abono hecho con restos orgánicos descompuestos"
+ },
+ {
+  "p": "CEREAL",
+  "t": "Cereal",
+  "d": "Planta como el maíz, el trigo o el arroz"
+ },
+ {
+  "p": "INJERTO",
+  "t": "Injerto",
+  "d": "Unión de una rama con otra planta"
+ },
+ {
+  "p": "NITROGENO",
+  "t": "Nitrógeno",
+  "d": "Nutriente clave para el crecimiento verde"
+ },
+ {
+  "p": "PODA",
+  "t": "Poda",
+  "d": "Corte de ramas para dar forma a la planta"
+ },
+ {
+  "p": "PARCELA",
+  "t": "Parcela",
+  "d": "Porción de terreno destinada a cultivar"
+ },
+ {
+  "p": "HUMUS",
+  "t": "Humus",
+  "d": "Materia orgánica oscura del suelo"
+ },
+ {
+  "p": "SURCO",
+  "t": "Surco",
+  "d": "Línea abierta en la tierra para sembrar"
+ },
+ {
+  "p": "ROTACION",
+  "t": "Rotación",
+  "d": "Alternar cultivos en un mismo terreno"
+ },
+ {
+  "p": "GRANERO",
+  "t": "Granero",
+  "d": "Lugar donde se guardan los granos"
+ },
+ {
+  "p": "PESTICIDA",
+  "t": "Pesticida",
+  "d": "Producto que combate las plagas"
+ },
+ {
+  "p": "GERMINAR",
+  "t": "Germinar",
+  "d": "Brotar la semilla al comenzar a crecer"
+ },
+ {
+  "p": "HORTALIZA",
+  "t": "Hortaliza",
+  "d": "Verdura cultivada en una huerta"
+ },
+ {
+  "p": "POLEN",
+  "t": "Polen",
+  "d": "Polvo de las flores que las fecunda"
+ },
+ {
+  "p": "TRIGO",
+  "t": "Trigo",
+  "d": "Cereal con el que se hace el pan"
+ }
+]

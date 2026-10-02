@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué relación calcio:fósforo se recomienda en dietas para ganado lechero en producción?",
+  "o": [
+   "1:5",
+   "2:1 a 2.5:1",
+   "10:1",
+   "1:10"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la acidosis ruminal y qué la causa principalmente?",
+  "o": [
+   "pH ruminal bajo por exceso de carbohidratos rápidamente fermentables",
+   "Falta de agua",
+   "Exceso de fibra",
+   "Falta de proteína"
+  ],
+  "c": 0
+ },
+ {
+  "q": "En mejoramiento genético, ¿qué significa heredabilidad?",
+  "o": [
+   "Que el animal es heredado",
+   "Proporción de la variación fenotípica debida a efectos genéticos aditivos",
+   "Que el animal es viejo",
+   "Cantidad de crías"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el balanceo de raciones por el método de programación lineal?",
+  "o": [
+   "Mezclar al azar",
+   "Método matemático que optimiza costo mínimo cumpliendo requerimientos nutricionales",
+   "Dar solo pasto",
+   "Dar solo concentrado"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es la función del propionato en el rumen?",
+  "o": [
+   "No tiene función",
+   "Principal precursor gluconeogénico en rumiantes",
+   "Solo produce metano",
+   "Destruye bacterias"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la heterosis o vigor híbrido?",
+  "o": [
+   "Pérdida de productividad en cruces",
+   "Superioridad del cruzado respecto al promedio de sus padres",
+   "Enfermedad genética",
+   "Clonación"
+  ],
+  "c": 1
+ },
+ {
+  "q": "En reproducción bovina, ¿cuánto dura el ciclo estral promedio?",
+  "o": [
+   "7 días",
+   "21 días",
+   "42 días",
+   "60 días"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el NDT y el NRC?",
+  "o": [
+   "Tipos de pasto",
+   "Nutrientes Digestibles Totales y National Research Council como referencia de requerimientos",
+   "Vacunas",
+   "Razas"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es el principal factor que regula el consumo voluntario en rumiantes alimentados con forrajes de baja calidad?",
+  "o": [
+   "El color",
+   "El llenado físico ruminal por FDN",
+   "La temperatura del agua",
+   "El nombre del potrero"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la cetosis en vacas lecheras de alta producción?",
+  "o": [
+   "Exceso de calcio",
+   "Trastorno metabólico por balance energético negativo y movilización excesiva de grasa",
+   "Enfermedad de la pezuña",
+   "Infección del ojo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "En cerdos, ¿qué sistema de destete se usa para romper el ciclo de enfermedades como PRRS?",
+  "o": [
+   "Destete precoz segregado (SEW) a los 10-21 días",
+   "Destete a los 60 días",
+   "No destetar",
+   "Destete a los 90 días"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa la relación Urea en sangre (BUN) alta en bovinos?",
+  "o": [
+   "Definitivamente falta de proteína",
+   "Exceso de proteína degradable en rumen o desbalance energía-proteína",
+   "Falta de agua",
+   "Exceso de fibra"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es la diferencia entre digestibilidad aparente y verdadera?",
+  "o": [
+   "No hay diferencia",
+   "La verdadera corrige por pérdidas endógenas, la aparente no",
+   "La aparente es más cara",
+   "La verdadera solo se usa en aves"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la selección genómica?",
+  "o": [
+   "Elegir por color",
+   "Uso de marcadores de ADN en todo el genoma para predecir valor genético",
+   "Elegir al más grande a ojo",
+   "Cruzar sin registros"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la fiebre de leche o hipocalcemia puerperal?",
+  "o": [
+   "Descenso del calcio en sangre cerca del parto",
+   "Exceso de azúcar en sangre",
+   "Infección en los ojos",
+   "Falta de agua"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa la sigla DEP en mejoramiento genético?",
+  "o": [
+   "Diferencia esperada en la progenie",
+   "Dosis de energía proteica",
+   "Densidad específica de pasto",
+   "Desarrollo escalonado de peso"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué tipo de agente causa la fiebre aftosa?",
+  "o": [
+   "Un virus",
+   "Una bacteria",
+   "Un hongo",
+   "Un parásito"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué leguminosa se usa en el trópico como fuente de proteína para el ganado?",
+  "o": [
+   "Leucaena",
+   "Maíz",
+   "Trigo",
+   "Arroz"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la principal proteína de la leche?",
+  "o": [
+   "Caseína",
+   "Albúmina",
+   "Queratina",
+   "Colágeno"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuánto dura aproximadamente la gestación de una cerda?",
+  "o": [
+   "114 días",
+   "60 días",
+   "150 días",
+   "200 días"
+  ],
+  "c": 0
+ }
+]

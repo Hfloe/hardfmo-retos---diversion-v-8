@@ -1,0 +1,3 @@
+Fondos de Apariencia (1080x1920): tema_1.jpg Aurora, tema_2.jpg Neón, tema_3.jpg Esmeralda,
+tema_4.jpg Océano, tema_5.jpg Palmeras, tema_6.jpg Oro negro. Para cambiar uno, reemplaza el archivo con otro de 1080x1920.
+fondo_0..4.jpg son los fondos antiguos y ya no se usan. El menú principal usa assets/menu_fondo.jpg y no cambia.

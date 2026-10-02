@@ -1,0 +1,69 @@
+MODO EN LINEA (SALAS CON CODIGO) - CONFIGURAR FIREBASE
+======================================================
+Gratis con el plan Spark de Firebase. Solo lo haces una vez.
+
+1) Crear el proyecto
+   - Entra a https://console.firebase.google.com con tu cuenta de Google.
+   - "Agregar proyecto" > ponle un nombre (ej: retos-estelares) > puedes desactivar Google Analytics.
+
+2) Activar el acceso anónimo
+   - Menú "Compilación" > "Authentication" > "Comenzar".
+   - Pestaña "Sign-in method" > "Anónimo" > Activar > Guardar.
+   (Los jugadores no crean cuenta; el juego entra solo, sin pedir nada.)
+
+3) Crear la base de datos
+   - "Compilación" > "Realtime Database" > "Crear base de datos".
+   - Elige la ubicación más cercana > "Iniciar en modo bloqueado".
+   - Copia la URL que aparece arriba, parecida a:
+     https://retos-estelares-default-rtdb.firebaseio.com
+
+4) Reglas de seguridad
+   - Pestaña "Reglas" de Realtime Database. Borra todo y pega esto, luego "Publicar":
+
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "salas": {
+      "$codigo": {
+        ".read": "auth != null",
+        ".write": "auth != null"
+      }
+    }
+  }
+}
+
+   Así nadie puede listar todas las salas: solo entra quien conoce el código.
+
+5) Clave de API
+   - Engranaje (arriba a la izquierda) > "Configuración del proyecto" > pestaña "General".
+   - Copia la "Clave de API web".
+
+6) Pegar los datos en el juego
+   - Abre Online.gd y completa:
+       const API_KEY := "tu clave de API web"
+       const DB_URL  := "https://tu-proyecto-default-rtdb.firebaseio.com"
+
+7) Android
+   - Project > Export > Android: activa el permiso INTERNET (obligatorio).
+
+8) Enlace de descarga en el mensaje de WhatsApp (opcional)
+   - En control/config.json agrega:  "url_descarga": "https://enlace-a-tu-juego"
+   - El botón "Compartir" lo incluye junto al código de la sala.
+
+COMO SE JUEGA
+-------------
+ - Anfitrión: "En línea" > pone su nombre y color > "Crear sala" > comparte el código.
+ - Amigos: "En línea" > nombre y color > escriben el código > "Unirse a sala".
+ - Cada uno escribe sus desafíos desde su celular (máx. 10 por jugador). Al iniciar,
+   los desafíos se mezclan en un mazo y se borra quién escribió cada uno.
+ - Solo el anfitrión gira la ruleta; todos la ven girar igual. A quien le toca elige su
+   carta y su desafío aparece en la pantalla de todos. Al completarlo, el anfitrión gira otra vez.
+ - Máximo 12 jugadores por sala. Si el anfitrión sale, la sala se cierra.
+
+NOTAS
+-----
+ - El juego consulta la sala cada ~1.2 segundos. Para grupos de amigos alcanza de sobra
+   en el plan gratis; si algún día tienes miles de salas a la vez, hay que pasar a
+   conexión en tiempo real (streaming).
+ - Sin internet, el juego local sigue funcionando igual que antes.

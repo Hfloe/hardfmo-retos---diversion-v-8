@@ -1,0 +1,202 @@
+[
+ {
+  "q": "Completa: \"Yesterday I ___ to the park.\"",
+  "o": [
+   "went",
+   "go",
+   "goes",
+   "going"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el pasado de \"buy\"?",
+  "o": [
+   "Bought",
+   "Buyed",
+   "Boughten",
+   "Buys"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la frase correcta?",
+  "o": [
+   "He doesn't like pizza.",
+   "He don't like pizza.",
+   "He not likes pizza.",
+   "He doesn't likes pizza."
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"borrow\"?",
+  "o": [
+   "Pedir prestado",
+   "Prestar",
+   "Comprar",
+   "Devolver"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"If it rains, I ___ at home.\"",
+  "o": [
+   "will stay",
+   "would stay",
+   "stayed",
+   "staying"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el comparativo de \"good\"?",
+  "o": [
+   "Better",
+   "Gooder",
+   "More good",
+   "Best"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"She has lived here ___ 2015.\"",
+  "o": [
+   "since",
+   "for",
+   "from",
+   "during"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"although\"?",
+  "o": [
+   "Aunque",
+   "Porque",
+   "Mientras",
+   "Entonces"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el plural de \"child\"?",
+  "o": [
+   "Children",
+   "Childs",
+   "Childrens",
+   "Childes"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"There ___ many people at the party.\"",
+  "o": [
+   "were",
+   "was",
+   "is",
+   "be"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué palabra significa \"nunca\" en inglés?",
+  "o": [
+   "Never",
+   "Always",
+   "Often",
+   "Sometimes"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"I'm interested ___ music.\"",
+  "o": [
+   "in",
+   "on",
+   "at",
+   "for"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"ahead\"?",
+  "o": [
+   "Adelante",
+   "Detrás",
+   "Cerca",
+   "Abajo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"He is taller ___ his brother.\"",
+  "o": [
+   "than",
+   "that",
+   "then",
+   "as"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el participio de \"write\"?",
+  "o": [
+   "Written",
+   "Wrote",
+   "Writed",
+   "Writing"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"make up your mind\"?",
+  "o": [
+   "Decídete",
+   "Maquíllate",
+   "Invéntalo",
+   "Recuérdalo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"How ___ water do you drink?\"",
+  "o": [
+   "much",
+   "many",
+   "few",
+   "more"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el antónimo de \"expensive\"?",
+  "o": [
+   "Cheap",
+   "Costly",
+   "Rich",
+   "Heavy"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"I was cooking when she ___.\"",
+  "o": [
+   "arrived",
+   "arrives",
+   "has arrived",
+   "arriving"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"knowledge\"?",
+  "o": [
+   "Conocimiento",
+   "Conciencia",
+   "Noticia",
+   "Colegio"
+  ],
+  "c": 0
+ }
+]

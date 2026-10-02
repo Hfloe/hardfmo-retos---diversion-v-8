@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué película dirigió Quentin Tarantino en 1994?",
+  "o": [
+   "Pulp Fiction",
+   "Reservoir Dogs",
+   "Kill Bill",
+   "Jackie Brown"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el nombre real de Bruno Mars?",
+  "o": [
+   "Peter Gene Hernandez",
+   "Bruno Gene Martin",
+   "Peter Hernandez Mars",
+   "Brian Marsh"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién ganó el Óscar a Mejor Director por \"Parásitos\"?",
+  "o": [
+   "Bong Joon-ho",
+   "Park Chan-wook",
+   "Martin Scorsese",
+   "Sam Mendes"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué cantante tiene el apodo \"The Boss\"?",
+  "o": [
+   "Bruce Springsteen",
+   "Bob Dylan",
+   "Billy Joel",
+   "Bon Jovi"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actor ganó el Óscar por \"El silencio de los corderos\"?",
+  "o": [
+   "Anthony Hopkins",
+   "Jodie Foster",
+   "Gary Oldman",
+   "Daniel Day-Lewis"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál fue el primer álbum de Shakira grabado en inglés?",
+  "o": [
+   "Laundry Service",
+   "Oral Fixation",
+   "She Wolf",
+   "Sale el Sol"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién ganó el Balón de Oro en 2018?",
+  "o": [
+   "Luka Modrić",
+   "Cristiano Ronaldo",
+   "Antoine Griezmann",
+   "Kylian Mbappé"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién compuso la música de la saga original de \"Star Wars\"?",
+  "o": [
+   "John Williams",
+   "Hans Zimmer",
+   "Ennio Morricone",
+   "Howard Shore"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actriz ganó el Óscar por la película \"Monster\"?",
+  "o": [
+   "Charlize Theron",
+   "Nicole Kidman",
+   "Hilary Swank",
+   "Halle Berry"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué director mexicano dirigió \"El laberinto del fauno\"?",
+  "o": [
+   "Guillermo del Toro",
+   "Alfonso Cuarón",
+   "Alejandro González Iñárritu",
+   "Pedro Almodóvar"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué artista colombiana lanzó el álbum \"Mañana será bonito\"?",
+  "o": [
+   "Karol G",
+   "Shakira",
+   "Greeicy",
+   "Kali Uchis"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuántos Mundiales de la FIFA ganó Pelé como jugador?",
+  "o": [
+   "3",
+   "2",
+   "4",
+   "1"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién dirigió \"El Padrino\" (1972)?",
+  "o": [
+   "Francis Ford Coppola",
+   "Martin Scorsese",
+   "Brian De Palma",
+   "Sidney Lumet"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué banda lanzó el álbum \"The Dark Side of the Moon\"?",
+  "o": [
+   "Pink Floyd",
+   "Led Zeppelin",
+   "The Doors",
+   "Genesis"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actor ganó dos Óscar seguidos por \"Philadelphia\" y \"Forrest Gump\"?",
+  "o": [
+   "Tom Hanks",
+   "Denzel Washington",
+   "Dustin Hoffman",
+   "Jack Nicholson"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué escritor colombiano ganó el Premio Nobel de Literatura en 1982?",
+  "o": [
+   "Gabriel García Márquez",
+   "Álvaro Mutis",
+   "Fernando Vallejo",
+   "William Ospina"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el nombre real del rapero Eminem?",
+  "o": [
+   "Marshall Mathers",
+   "Calvin Broadus",
+   "Shawn Carter",
+   "Curtis Jackson"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actor ganó el Óscar a Mejor Actor por interpretar a Oppenheimer?",
+  "o": [
+   "Cillian Murphy",
+   "Robert Downey Jr.",
+   "Matt Damon",
+   "Bradley Cooper"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué atleta jamaiquino tiene el récord mundial de los 100 metros planos con 9,58 s?",
+  "o": [
+   "Usain Bolt",
+   "Yohan Blake",
+   "Asafa Powell",
+   "Justin Gatlin"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿En qué año ganó Colombia su única Copa América?",
+  "o": [
+   "2001",
+   "1999",
+   "2004",
+   "2016"
+  ],
+  "c": 0
+ }
+]

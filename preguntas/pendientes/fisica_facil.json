@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Cuál es la unidad de fuerza en el Sistema Internacional?",
+  "o": [
+   "Newton",
+   "Joule",
+   "Watt",
+   "Pascal"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué fuerza nos mantiene pegados a la Tierra?",
+  "o": [
+   "La gravedad",
+   "El magnetismo",
+   "La fricción",
+   "La inercia"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
+  "o": [
+   "300.000 km/s",
+   "30.000 km/s",
+   "3.000 km/s",
+   "3.000.000 km/s"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿En qué estado de la materia las partículas están más separadas?",
+  "o": [
+   "Gaseoso",
+   "Sólido",
+   "Líquido",
+   "Cristalino"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se llama el paso de líquido a gas?",
+  "o": [
+   "Evaporación",
+   "Condensación",
+   "Fusión",
+   "Solidificación"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué instrumento mide la temperatura?",
+  "o": [
+   "Termómetro",
+   "Barómetro",
+   "Higrómetro",
+   "Dinamómetro"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿A qué temperatura hierve el agua al nivel del mar?",
+  "o": [
+   "100 °C",
+   "90 °C",
+   "80 °C",
+   "120 °C"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué tipo de energía tiene un objeto en movimiento?",
+  "o": [
+   "Cinética",
+   "Potencial",
+   "Térmica",
+   "Nuclear"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué unidad se usa para medir la energía?",
+  "o": [
+   "Joule",
+   "Newton",
+   "Metro",
+   "Kelvin"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se llama la fuerza que se opone al deslizamiento entre dos superficies?",
+  "o": [
+   "Fricción",
+   "Gravedad",
+   "Empuje",
+   "Tensión"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuántos colores principales se suelen contar en el arcoíris?",
+  "o": [
+   "7",
+   "5",
+   "6",
+   "8"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es el sonido?",
+  "o": [
+   "Una onda que necesita un medio para propagarse",
+   "Una partícula de luz",
+   "Una corriente eléctrica",
+   "Un campo magnético"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué polo de un imán atrae al polo norte de otro imán?",
+  "o": [
+   "El polo sur",
+   "El polo norte",
+   "Ninguno",
+   "Los dos por igual"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué aparato mide la corriente eléctrica?",
+  "o": [
+   "Amperímetro",
+   "Voltímetro",
+   "Barómetro",
+   "Sismógrafo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el símbolo de la unidad de potencia, el watt?",
+  "o": [
+   "W",
+   "J",
+   "N",
+   "P"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué científico formuló la ley de la gravitación universal?",
+  "o": [
+   "Isaac Newton",
+   "Albert Einstein",
+   "Galileo Galilei",
+   "Nikola Tesla"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué ocurre con el agua cuando se congela?",
+  "o": [
+   "Pasa a estado sólido",
+   "Pasa a gas",
+   "Se descompone",
+   "Se vuelve plasma"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es un conductor eléctrico?",
+  "o": [
+   "Un material que permite el paso de la corriente",
+   "Un material que impide totalmente su paso",
+   "Un aparato que mide el voltaje",
+   "Un tipo de imán"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la fuente natural de luz y calor más importante de la Tierra?",
+  "o": [
+   "El Sol",
+   "La Luna",
+   "El núcleo terrestre",
+   "Los volcanes"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿A cuántos grados Celsius se congela el agua?",
+  "o": [
+   "0 °C",
+   "32 °C",
+   "100 °C",
+   "-10 °C"
+  ],
+  "c": 0
+ }
+]

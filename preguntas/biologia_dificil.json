@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué es el operón lac en bacterias?",
+  "o": [
+   "Un virus",
+   "Conjunto de genes que regulan el metabolismo de la lactosa, modelo de regulación génica",
+   "Un tipo de mitocondria",
+   "Un ribosoma"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es la ecuación general de la fotosíntesis?",
+  "o": [
+   "C6H12O6 + 6O2 -> 6CO2 + 6H2O",
+   "6CO2 + 6H2O + luz -> C6H12O6 + 6O2",
+   "2H2O -> 2H2 + O2",
+   "CO2 + H2O -> H2CO3"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la fosforilación oxidativa?",
+  "o": [
+   "Proceso en cloroplastos",
+   "Proceso en la cadena de transporte de electrones mitocondrial que produce ATP",
+   "División del núcleo",
+   "Síntesis de lípidos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué diferencia hay entre mutación puntual sinónima y no sinónima?",
+  "o": [
+   "Son iguales",
+   "Sinónima no cambia aminoácido, no sinónima sí cambia aminoácido",
+   "Sinónima siempre es mortal",
+   "No sinónima no tiene efecto"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el potencial de acción?",
+  "o": [
+   "Un pensamiento",
+   "Cambio eléctrico rápido en la membrana neuronal por flujo de Na+ y K+",
+   "Una contracción muscular lenta",
+   "Una hormona"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la epigenética?",
+  "o": [
+   "Cambios en la secuencia de ADN",
+   "Cambios heredables en la expresión génica sin alterar secuencia, por metilación y modificación de histonas",
+   "Enfermedad genética",
+   "Clonación"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la teoría endosimbiótica?",
+  "o": [
+   "Que los virus originaron células",
+   "Que mitocondrias y cloroplastos derivan de bacterias que fueron fagocitadas",
+   "Que todas las células son iguales",
+   "Que el núcleo viene de un virus"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de herencia muestra el daltonismo?",
+  "o": [
+   "Autosómica dominante",
+   "Ligada al cromosoma X recesiva",
+   "Mitocondrial",
+   "Autosómica recesiva solamente"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el efecto fundador y cuello de botella?",
+  "o": [
+   "Tipos de fotosíntesis",
+   "Mecanismos de deriva genética que reducen variabilidad genética",
+   "Tipos de respiración",
+   "Etapas de mitosis"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué enzima desenrolla el ADN durante la replicación?",
+  "o": [
+   "ADN polimerasa",
+   "Helicasa",
+   "Ligasa",
+   "ARN polimerasa"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la apoptosis?",
+  "o": [
+   "Muerte celular accidental por daño",
+   "Muerte celular programada y controlada",
+   "División celular",
+   "Crecimiento tumoral"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es la función de las células T CD8?",
+  "o": [
+   "Producir anticuerpos",
+   "Citotóxicas que destruyen células infectadas por virus o cancerosas",
+   "Transportar oxígeno",
+   "Coagular sangre"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la ley de Hardy-Weinberg?",
+  "o": [
+   "p + q = 1 describe frecuencias alélicas en población sin evolución",
+   "Ley de gravedad",
+   "Ley de fotosíntesis",
+   "Ley de mitosis"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es la quimiosmosis según Mitchell?",
+  "o": [
+   "Movimiento de agua",
+   "Uso del gradiente de protones para sintetizar ATP en mitocondria y cloroplasto",
+   "Transporte de lípidos",
+   "División de cloroplastos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué son los intrones y exones?",
+  "o": [
+   "Tipos de proteínas",
+   "Intrones son secuencias no codificantes que se eliminan, exones son codificantes que permanecen en ARNm maduro",
+   "Tipos de células",
+   "Tipos de virus"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la pleiotropía?",
+  "o": [
+   "Un gen afecta múltiples rasgos fenotípicos",
+   "Varios genes afectan un rasgo",
+   "Un rasgo sin genes",
+   "Herencia solo materna"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué diferencia hay entre anafase mitótica y anafase I meiótica?",
+  "o": [
+   "No hay diferencia",
+   "En mitosis se separan cromátidas hermanas, en meiosis I se separan cromosomas homólogos",
+   "En mitosis se separan cromosomas homólogos",
+   "En meiosis I se separan cromátidas"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el sistema CRISPR-Cas9?",
+  "o": [
+   "Un antibiótico",
+   "Sistema de edición genética derivado de defensa bacteriana contra virus",
+   "Una vacuna",
+   "Un tipo de cloroplasto"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de inhibición enzimática ocurre cuando el inhibidor se une al sitio alostérico y cambia la forma de la enzima?",
+  "o": [
+   "Competitiva",
+   "No competitiva o alostérica",
+   "Irreversible siempre",
+   "No afecta"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la especiación simpátrica?",
+  "o": [
+   "Formación de nuevas especies con barrera geográfica",
+   "Formación de nuevas especies sin barrera geográfica, en la misma área",
+   "Extinción de especies",
+   "Clonación de especies"
+  ],
+  "c": 1
+ }
+]

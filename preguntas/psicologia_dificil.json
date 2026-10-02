@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué diferencia hay entre alucinación y delirio?",
+  "o": [
+   "Son lo mismo",
+   "Alucinación es percepción sin estímulo, delirio es creencia falsa e irracional",
+   "Delirio es visual, alucinación es creencia",
+   "Ninguna es patológica"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el error fundamental de atribución?",
+  "o": [
+   "Atribuir la conducta de otros a factores internos y subestimar factores situacionales",
+   "Atribuir todo a la suerte",
+   "No atribuir nada",
+   "Atribuir solo a lo externo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué propone la teoría de la mente?",
+  "o": [
+   "Capacidad de leer la mente literalmente",
+   "Capacidad de atribuir estados mentales a otros y entender que son diferentes a los propios",
+   "Que la mente no existe",
+   "Que todos piensan igual"
+  ],
+  "c": 1
+ },
+ {
+  "q": "En el modelo de los Cinco Grandes de la personalidad, ¿cuáles son?",
+  "o": [
+   "Feliz, triste, enojado, calmado, ansioso",
+   "Apertura, Responsabilidad, Extraversión, Amabilidad, Neuroticismo",
+   "Alto, bajo, medio, gordo, flaco",
+   "Freud, Jung, Adler, Skinner, Watson"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la extinción en condicionamiento operante?",
+  "o": [
+   "Reforzar más",
+   "Disminución de una conducta al dejar de reforzarla",
+   "Castigar físicamente",
+   "Dar doble refuerzo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué caracteriza a la esquizofrenia según el DSM-5?",
+  "o": [
+   "Solo tristeza",
+   "Síntomas positivos como alucinaciones y delirios, y negativos como aplanamiento afectivo por más de 6 meses",
+   "Solo miedo",
+   "Solo problemas de sueño"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la terapia cognitivo-conductual?",
+  "o": [
+   "Solo hablar del pasado",
+   "Terapia que busca modificar pensamientos disfuncionales y conductas desadaptativas",
+   "Solo hipnosis",
+   "Solo medicación"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el sesgo de confirmación?",
+  "o": [
+   "Buscar información que confirme nuestras creencias e ignorar la que las contradice",
+   "Confirmar que todo está bien",
+   "Tener buena memoria",
+   "Ser imparcial"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué diferencia hay entre memoria explícita e implícita?",
+  "o": [
+   "No hay diferencia",
+   "Explícita es consciente y declarativa, implícita es inconsciente y procedimental",
+   "Explícita es solo motora",
+   "Implícita es solo verbal"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué explica el experimento de la prisión de Stanford de Zimbardo?",
+  "o": [
+   "Cómo el rol social y el contexto pueden influir en la conducta cruel",
+   "Cómo mejorar la memoria",
+   "Cómo aprender idiomas",
+   "Cómo curar la depresión"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es la anhedonia?",
+  "o": [
+   "Exceso de placer",
+   "Incapacidad para sentir placer",
+   "Miedo a la gente",
+   "Exceso de sueño"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el doble vínculo según Bateson?",
+  "o": [
+   "Mensajes contradictorios que generan confusión y se asoció al estudio de la esquizofrenia",
+   "Doble personalidad",
+   "Dos vínculos amorosos",
+   "Doble terapia"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué propone la teoría del procesamiento dual de Kahneman?",
+  "o": [
+   "Que solo existe un sistema de pensamiento",
+   "Sistema 1 rápido e intuitivo y Sistema 2 lento y racional",
+   "Que no pensamos",
+   "Que solo soñamos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la neuroplasticidad?",
+  "o": [
+   "Que el cerebro no cambia",
+   "Capacidad del cerebro para reorganizarse formando nuevas conexiones a lo largo de la vida",
+   "Que el cerebro es de plástico",
+   "Una enfermedad"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la contratransferencia en terapia?",
+  "o": [
+   "Cuando el paciente transfiere todo",
+   "Reacciones emocionales del terapeuta hacia el paciente basadas en su propia historia",
+   "Transferencia de dinero",
+   "Cambio de terapeuta"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué mide el test de Stroop?",
+  "o": [
+   "Fuerza muscular",
+   "Atención selectiva y control inhibitorio",
+   "Altura",
+   "Peso"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el locus de control?",
+  "o": [
+   "Lugar donde se hace terapia",
+   "Grado en que una persona cree que controla los eventos de su vida, interno o externo",
+   "Un test de inteligencia",
+   "Un tipo de fobia"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué diferencia hay entre miedo y ansiedad?",
+  "o": [
+   "Son iguales",
+   "Miedo es respuesta a amenaza presente y concreta, ansiedad es anticipación a amenaza futura",
+   "Miedo es futuro, ansiedad es presente",
+   "Ninguna es emoción"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la disociación?",
+  "o": [
+   "Asociación de ideas",
+   "Desconexión entre pensamientos, identidad, conciencia y memoria como mecanismo de defensa",
+   "Unión de pensamientos",
+   "Exceso de concentración"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué critica el enfoque de la psicología positiva de Seligman al modelo tradicional?",
+  "o": [
+   "Que solo se enfocaba en la enfermedad y no en fortalezas, bienestar y florecimiento humano",
+   "Que no usaba tests",
+   "Que era muy positiva",
+   "Que no existía"
+  ],
+  "c": 0
+ }
+]

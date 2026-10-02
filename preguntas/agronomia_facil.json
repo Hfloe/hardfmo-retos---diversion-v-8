@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué estudia la agronomía?",
+  "o": [
+   "Animales domésticos",
+   "Conjunto de conocimientos para cultivar la tierra y producir alimentos",
+   "Solo flores",
+   "Solo peces"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se llama la capa superficial de la tierra donde crecen las plantas?",
+  "o": [
+   "Roca madre",
+   "Suelo",
+   "Subsuelo",
+   "Atmósfera"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué necesitan las plantas para hacer fotosíntesis?",
+  "o": [
+   "Solo agua",
+   "Luz, agua y dióxido de carbono",
+   "Solo oxígeno",
+   "Solo suelo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué elemento es un macronutriente primario para las plantas?",
+  "o": [
+   "Nitrógeno",
+   "Molibdeno",
+   "Cloro",
+   "Níquel"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se llama el proceso de remover la tierra para sembrar?",
+  "o": [
+   "Riego",
+   "Labranza o preparación del suelo",
+   "Cosecha",
+   "Fumigación"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué herramienta manual se usa para cortar maleza?",
+  "o": [
+   "Pala",
+   "Machete",
+   "Termómetro",
+   "Balanza"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de riego consiste en llevar agua por canales sobre el suelo?",
+  "o": [
+   "Riego por goteo",
+   "Riego por gravedad o inundación",
+   "Riego por aspersión",
+   "Hidroponía"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es una semilla?",
+  "o": [
+   "Una raíz",
+   "Embrión vegetal protegido que dará origen a una nueva planta",
+   "Una hoja",
+   "Un fruto sin embrión"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué estación es ideal para sembrar la mayoría de cultivos anuales en clima tropical?",
+  "o": [
+   "Solo en invierno",
+   "Al inicio de lluvias",
+   "Nunca",
+   "Solo de noche"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es un abono orgánico?",
+  "o": [
+   "Fertilizante sintético",
+   "Material de origen animal o vegetal que aporta nutrientes al suelo",
+   "Veneno",
+   "Plástico"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué cultivo es un cereal?",
+  "o": [
+   "Maíz",
+   "Tomate",
+   "Yuca",
+   "Mango"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se llama la planta que compite con el cultivo por agua, luz y nutrientes?",
+  "o": [
+   "Planta ornamental",
+   "Maleza o arvenses",
+   "Planta medicinal",
+   "Planta industrial"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué instrumento mide el pH del suelo?",
+  "o": [
+   "Cinta métrica",
+   "pH-metro o kit de pH",
+   "Anemómetro",
+   "Brújula"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la cosecha?",
+  "o": [
+   "Sembrar",
+   "Recolectar los productos del cultivo cuando están listos",
+   "Regar",
+   "Aplicar herbicida"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué parte de la planta absorbe agua y nutrientes?",
+  "o": [
+   "Hoja",
+   "Raíz",
+   "Flor",
+   "Fruto"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la agricultura de secano?",
+  "o": [
+   "Agricultura que depende solo de lluvia sin riego artificial",
+   "Agricultura bajo agua",
+   "Agricultura en invernadero",
+   "Agricultura sin suelo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué animal ayuda en la polinización de muchos cultivos?",
+  "o": [
+   "Gato",
+   "Abeja",
+   "Perro",
+   "Gallina"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es un vivero?",
+  "o": [
+   "Lugar donde se crían peces",
+   "Lugar donde se germinan y cuidan plántulas hasta trasplante",
+   "Lugar donde se guardan tractores",
+   "Lugar donde se vende carne"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué significa rotación de cultivos?",
+  "o": [
+   "Sembrar siempre lo mismo",
+   "Alternar diferentes cultivos en el mismo terreno para mejorar suelo y romper ciclos de plagas",
+   "Girar la planta",
+   "Vender cultivos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué elemento necesitan las plantas para formar clorofila?",
+  "o": [
+   "Nitrógeno y Magnesio",
+   "Solo oro",
+   "Solo plomo",
+   "Solo plata"
+  ],
+  "c": 0
+ }
+]

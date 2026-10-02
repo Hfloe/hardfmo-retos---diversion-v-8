@@ -1,0 +1,152 @@
+[
+ {
+  "p": "MOTOR",
+  "t": "Motor",
+  "d": "Parte que produce el movimiento"
+ },
+ {
+  "p": "PISTON",
+  "t": "Pistón",
+  "d": "Pieza que sube y baja dentro del cilindro"
+ },
+ {
+  "p": "CILINDRO",
+  "t": "Cilindro",
+  "d": "Cámara donde se mueve el pistón"
+ },
+ {
+  "p": "BUJIA",
+  "t": "Bujía",
+  "d": "Genera la chispa que enciende la mezcla"
+ },
+ {
+  "p": "CADENA",
+  "t": "Cadena",
+  "d": "Transmite el giro del motor a la rueda trasera"
+ },
+ {
+  "p": "CATALINA",
+  "t": "Catalina",
+  "d": "Rueda dentada grande de la rueda trasera"
+ },
+ {
+  "p": "FRENO",
+  "t": "Freno",
+  "d": "Sirve para detener la moto"
+ },
+ {
+  "p": "PASTILLA",
+  "t": "Pastilla",
+  "d": "Pieza que roza el disco al frenar"
+ },
+ {
+  "p": "DISCO",
+  "t": "Disco",
+  "d": "Pieza metálica redonda que frena la rueda"
+ },
+ {
+  "p": "LLANTA",
+  "t": "Llanta",
+  "d": "Parte de caucho que toca el suelo"
+ },
+ {
+  "p": "ACEITE",
+  "t": "Aceite",
+  "d": "Lubrica las piezas del motor"
+ },
+ {
+  "p": "FILTRO",
+  "t": "Filtro",
+  "d": "Retiene las impurezas del aire o del aceite"
+ },
+ {
+  "p": "GASOLINA",
+  "t": "Gasolina",
+  "d": "Combustible de la mayoría de motos"
+ },
+ {
+  "p": "EMBRAGUE",
+  "t": "Embrague",
+  "d": "Conecta o separa el motor y la caja"
+ },
+ {
+  "p": "MANUBRIO",
+  "t": "Manubrio",
+  "d": "Parte que se agarra para dirigir la moto"
+ },
+ {
+  "p": "BATERIA",
+  "t": "Batería",
+  "d": "Almacena la energía eléctrica"
+ },
+ {
+  "p": "ESCAPE",
+  "t": "Escape",
+  "d": "Expulsa los gases quemados"
+ },
+ {
+  "p": "RADIADOR",
+  "t": "Radiador",
+  "d": "Enfría el líquido del motor"
+ },
+ {
+  "p": "HORQUILLA",
+  "t": "Horquilla",
+  "d": "Sostiene la rueda delantera"
+ },
+ {
+  "p": "ESPEJO",
+  "t": "Espejo",
+  "d": "Permite ver lo que hay atrás"
+ },
+ {
+  "p": "CASCO",
+  "t": "Casco",
+  "d": "Protege la cabeza del conductor"
+ },
+ {
+  "p": "MARCHA",
+  "t": "Marcha",
+  "d": "Posición de la caja de cambios"
+ },
+ {
+  "p": "VALVULA",
+  "t": "Válvula",
+  "d": "Abre y cierra el paso de los gases"
+ },
+ {
+  "p": "TANQUE",
+  "t": "Tanque",
+  "d": "Depósito de combustible"
+ },
+ {
+  "p": "FARO",
+  "t": "Faro",
+  "d": "Luz delantera de la moto"
+ },
+ {
+  "p": "CHISPA",
+  "t": "Chispa",
+  "d": "Enciende la mezcla en el motor"
+ },
+ {
+  "p": "CABLE",
+  "t": "Cable",
+  "d": "Lleva la orden del puño al freno o al embrague"
+ },
+ {
+  "p": "TORNILLO",
+  "t": "Tornillo",
+  "d": "Pieza roscada que une partes"
+ },
+ {
+  "p": "ESTRIBO",
+  "t": "Estribo",
+  "d": "Apoyo para los pies"
+ },
+ {
+  "p": "ARRANQUE",
+  "t": "Arranque",
+  "d": "Sistema que pone en marcha el motor"
+ }
+]

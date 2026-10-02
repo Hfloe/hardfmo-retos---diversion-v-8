@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Quién ganó el Óscar a Mejor Actor por \"El renacido\"?",
+  "o": [
+   "Leonardo DiCaprio",
+   "Eddie Redmayne",
+   "Matthew McConaughey",
+   "Joaquin Phoenix"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué artista lanzó el álbum \"Thriller\"?",
+  "o": [
+   "Michael Jackson",
+   "Prince",
+   "Whitney Houston",
+   "Stevie Wonder"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué banda británica tenía como vocalista a Freddie Mercury?",
+  "o": [
+   "Queen",
+   "Led Zeppelin",
+   "The Who",
+   "Pink Floyd"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién dirigió la película \"Titanic\"?",
+  "o": [
+   "James Cameron",
+   "Steven Spielberg",
+   "Christopher Nolan",
+   "Ridley Scott"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actor interpretó al Joker en \"The Dark Knight\" (2008)?",
+  "o": [
+   "Heath Ledger",
+   "Joaquin Phoenix",
+   "Jared Leto",
+   "Jack Nicholson"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuántos Balones de Oro había ganado Lionel Messi hasta 2023?",
+  "o": [
+   "8",
+   "7",
+   "6",
+   "9"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actriz ganó el Óscar por \"La La Land\"?",
+  "o": [
+   "Emma Stone",
+   "Natalie Portman",
+   "Brie Larson",
+   "Jennifer Lawrence"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué cantante lanzó el álbum \"21\"?",
+  "o": [
+   "Adele",
+   "Amy Winehouse",
+   "Lana Del Rey",
+   "Dua Lipa"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿En qué ciudad nació el cantante Maluma?",
+  "o": [
+   "Medellín",
+   "Bogotá",
+   "Cali",
+   "Barranquilla"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actor interpreta a Thor en el universo Marvel?",
+  "o": [
+   "Chris Hemsworth",
+   "Chris Pratt",
+   "Liam Hemsworth",
+   "Tom Hiddleston"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué grupo coreano canta \"Dynamite\"?",
+  "o": [
+   "BTS",
+   "Blackpink",
+   "EXO",
+   "Stray Kids"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué piloto británico ganó siete campeonatos mundiales de Fórmula 1?",
+  "o": [
+   "Lewis Hamilton",
+   "Jenson Button",
+   "Nigel Mansell",
+   "Damon Hill"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién creó la saga de películas \"Star Wars\"?",
+  "o": [
+   "George Lucas",
+   "Steven Spielberg",
+   "J. J. Abrams",
+   "James Cameron"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué cantante puertorriqueño es el autor de \"Gasolina\"?",
+  "o": [
+   "Daddy Yankee",
+   "Bad Bunny",
+   "Don Omar",
+   "Wisin"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actriz interpretó a Katniss Everdeen en \"Los juegos del hambre\"?",
+  "o": [
+   "Jennifer Lawrence",
+   "Shailene Woodley",
+   "Emma Stone",
+   "Kristen Stewart"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el nombre real de Lady Gaga?",
+  "o": [
+   "Stefani Germanotta",
+   "Katheryn Hudson",
+   "Robyn Fenty",
+   "Alecia Moore"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué cantante lanzó el álbum \"Un verano sin ti\"?",
+  "o": [
+   "Bad Bunny",
+   "J Balvin",
+   "Rauw Alejandro",
+   "Ozuna"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué actor interpretó a Walter White en \"Breaking Bad\"?",
+  "o": [
+   "Bryan Cranston",
+   "Aaron Paul",
+   "Bob Odenkirk",
+   "Jon Hamm"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué tenista español tiene el récord de títulos en Roland Garros?",
+  "o": [
+   "Rafael Nadal",
+   "Carlos Alcaraz",
+   "David Ferrer",
+   "Juan Carlos Ferrero"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién es el cantante principal de la banda U2?",
+  "o": [
+   "Bono",
+   "Sting",
+   "Bruce Springsteen",
+   "Mick Jagger"
+  ],
+  "c": 0
+ }
+]

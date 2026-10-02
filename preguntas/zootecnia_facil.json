@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué ciencia estudia la cría y explotación de los animales domésticos?",
+  "o": [
+   "Agronomía",
+   "Zootecnia",
+   "Botánica",
+   "Entomología"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se le llama a la hembra del bovino que ha tenido al menos un parto?",
+  "o": [
+   "Vaquilla",
+   "Novilla",
+   "Vaca",
+   "Ternera"
+  ],
+  "c": 2
+ },
+ {
+  "q": "¿Cuál es el objetivo principal de la ganadería lechera?",
+  "o": [
+   "Producción de lana",
+   "Producción de leche",
+   "Producción de carne",
+   "Producción de huevos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué animal produce lana?",
+  "o": [
+   "Cerdo",
+   "Oveja",
+   "Caballo",
+   "Gallina"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se llama el macho de la gallina?",
+  "o": [
+   "Pollo",
+   "Gallo",
+   "Capón",
+   "Pavo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de animal es el cerdo según su alimentación?",
+  "o": [
+   "Herbívoro",
+   "Carnívoro",
+   "Omnívoro",
+   "Insectívoro"
+  ],
+  "c": 2
+ },
+ {
+  "q": "¿Cuál de estos es un forraje?",
+  "o": [
+   "Maíz molido",
+   "Pasto",
+   "Sal mineral",
+   "Melaza"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué producto se obtiene de las abejas?",
+  "o": [
+   "Leche",
+   "Miel",
+   "Seda",
+   "Lana"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se llama el lugar donde se alojan las gallinas ponedoras?",
+  "o": [
+   "Porqueriza",
+   "Establo",
+   "Galpón",
+   "Aprisco"
+  ],
+  "c": 2
+ },
+ {
+  "q": "¿Cuál es la gestación promedio de una vaca?",
+  "o": [
+   "5 meses",
+   "9 meses",
+   "3 meses",
+   "11 meses"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué raza bovina es famosa por su producción de leche?",
+  "o": [
+   "Brahman",
+   "Holstein",
+   "Angus",
+   "Nelore"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué mineral es fundamental para la formación de huesos en los animales?",
+  "o": [
+   "Calcio",
+   "Hierro",
+   "Zinc",
+   "Yodo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se llama la cría de la oveja?",
+  "o": [
+   "Cabrito",
+   "Cordero",
+   "Lechón",
+   "Potro"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué animal pertenece a las aves de corral?",
+  "o": [
+   "Conejo",
+   "Pato",
+   "Cabra",
+   "Búfalo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el pastoreo?",
+  "o": [
+   "Alimentar animales con concentrado",
+   "Dejar que los animales coman pasto directamente del potrero",
+   "Dar agua a los animales",
+   "Vacunar a los animales"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se llama el conjunto de cerdos?",
+  "o": [
+   "Rebaño",
+   "Piara",
+   "Hato",
+   "Bandada"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es la función del agua en la nutrición animal?",
+  "o": [
+   "Solo refrescar",
+   "Transporte de nutrientes y regulación de temperatura",
+   "Solo limpiar",
+   "No tiene función"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué raza porcina es blanca y muy común en producción?",
+  "o": [
+   "Duroc",
+   "Pietrain",
+   "Landrace",
+   "Hampshire"
+  ],
+  "c": 2
+ },
+ {
+  "q": "¿Qué se entiende por ganado mayor?",
+  "o": [
+   "Aves y conejos",
+   "Bovinos, equinos y búfalos",
+   "Solo ovejas y cabras",
+   "Solo cerdos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué equipo se usa para identificar individualmente al ganado?",
+  "o": [
+   "Arete o chapeta",
+   "Collar de perlas",
+   "Pintura de casa",
+   "Cinta adhesiva"
+  ],
+  "c": 0
+ }
+]

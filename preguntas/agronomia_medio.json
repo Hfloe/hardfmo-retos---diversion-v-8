@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Cuál es el pH óptimo para la mayoría de cultivos agrícolas?",
+  "o": [
+   "2.0 - 3.0",
+   "5.5 - 7.0",
+   "9.0 - 10.0",
+   "1.0 - 2.0"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué significan las siglas NPK en un fertilizante?",
+  "o": [
+   "Níquel, Plomo, Potasio",
+   "Nitrógeno, Fósforo, Potasio",
+   "Nitrato, Potasio, Calcio",
+   "Nitrógeno, Plomo, Carbono"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la capacidad de campo?",
+  "o": [
+   "Agua que queda en el suelo después de drenar el exceso",
+   "Agua total del mar",
+   "Agua de lluvia",
+   "Agua de riego por goteo"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué tipo de suelo retiene más agua pero se encharca fácilmente?",
+  "o": [
+   "Arenoso",
+   "Arcilloso",
+   "Franco arenoso",
+   "Pedregoso"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la evapotranspiración?",
+  "o": [
+   "Solo evaporación del suelo",
+   "Pérdida de agua por evaporación del suelo más transpiración de plantas",
+   "Solo lluvia",
+   "Riego"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué práctica ayuda a conservar el suelo en laderas?",
+  "o": [
+   "Sembrar a favor de la pendiente",
+   "Curvas a nivel y barreras vivas",
+   "Quemar todo",
+   "Dejar suelo desnudo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es un cultivo de cobertura?",
+  "o": [
+   "Cultivo que se siembra para proteger el suelo de erosión y mejorar materia orgánica",
+   "Cultivo que tapa otros cultivos y los mata",
+   "Cultivo sin valor",
+   "Cultivo plástico"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la diferencia entre fertilizante y enmienda?",
+  "o": [
+   "Son lo mismo",
+   "Fertilizante aporta nutrientes, enmienda corrige propiedades físicas o químicas como pH",
+   "Enmienda es veneno",
+   "Fertilizante quita nutrientes"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la fotosíntesis C4?",
+  "o": [
+   "Fotosíntesis que no existe",
+   "Tipo de fotosíntesis más eficiente en calor con doble carboxilación, ejemplo maíz y caña",
+   "Fotosíntesis solo de noche",
+   "Fotosíntesis de algas nada más"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué plaga chupa savia y transmite virus en muchos cultivos?",
+  "o": [
+   "Pulgón o áfido",
+   "Lombriz",
+   "Gallina ciega",
+   "Abeja"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es el control biológico?",
+  "o": [
+   "Usar venenos fuertes",
+   "Usar enemigos naturales como depredadores o parásitos para controlar plagas",
+   "Quemar el cultivo",
+   "Cortar todo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué significa materia orgánica del suelo 3%?",
+  "o": [
+   "3% de piedras",
+   "3 gramos de material orgánico por cada 100 gramos de suelo seco",
+   "3% de agua",
+   "3% de arena"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el índice de área foliar IAF?",
+  "o": [
+   "Peso de hojas",
+   "Superficie de hojas por unidad de superficie de suelo",
+   "Número de frutos",
+   "Altura de planta"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de herbicida mata solo hoja ancha y no gramíneas?",
+  "o": [
+   "No selectivo",
+   "Selectivo para hoja ancha como 2,4-D",
+   "Ninguno",
+   "Todos matan todo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la vernalización?",
+  "o": [
+   "Necesidad de frío para inducir floración en algunos cultivos como trigo y ajo",
+   "Necesidad de calor extremo",
+   "Necesidad de agua salada",
+   "Necesidad de oscuridad total"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es la densidad de siembra?",
+  "o": [
+   "Número de plantas por área",
+   "Peso de semilla",
+   "Color de semilla",
+   "Tamaño de hoja"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué nutriente es clave para floración y llenado de frutos?",
+  "o": [
+   "Nitrógeno en exceso",
+   "Fósforo y Potasio",
+   "Solo agua",
+   "Cloro en exceso"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la lixiviación?",
+  "o": [
+   "Lavado de nutrientes por debajo de la zona radicular por exceso de agua",
+   "Subida de nutrientes",
+   "Fotosíntesis",
+   "Siembra"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué es un sistema agroforestal?",
+  "o": [
+   "Solo bosque sin cultivos",
+   "Combinación de árboles con cultivos agrícolas y o ganadería",
+   "Solo monocultivo",
+   "Solo cemento"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué mide la conductividad eléctrica del suelo?",
+  "o": [
+   "Cantidad de sales disueltas",
+   "Cantidad de agua nada más",
+   "Color",
+   "Temperatura"
+  ],
+  "c": 0
+ }
+]

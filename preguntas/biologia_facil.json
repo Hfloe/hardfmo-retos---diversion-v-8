@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Cuál es la unidad básica de la vida?",
+  "o": [
+   "El tejido",
+   "La célula",
+   "El órgano",
+   "El átomo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué proceso realizan las plantas para producir su propio alimento?",
+  "o": [
+   "Respiración",
+   "Fotosíntesis",
+   "Digestión",
+   "Fermentación"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué gas necesitan los humanos para respirar?",
+  "o": [
+   "Dióxido de carbono",
+   "Oxígeno",
+   "Nitrógeno",
+   "Hidrógeno"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es el órgano que bombea sangre en el cuerpo humano?",
+  "o": [
+   "Pulmón",
+   "Corazón",
+   "Hígado",
+   "Riñón"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuántos cromosomas tiene el ser humano en sus células somáticas?",
+  "o": [
+   "23",
+   "44",
+   "46",
+   "48"
+  ],
+  "c": 2
+ },
+ {
+  "q": "¿Qué tipo de sangre es donante universal?",
+  "o": [
+   "AB+",
+   "O-",
+   "A+",
+   "B+"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Dónde ocurre la fotosíntesis en la planta?",
+  "o": [
+   "En la raíz",
+   "En las hojas, en los cloroplastos",
+   "En el tallo solamente",
+   "En la flor"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se llaman los animales que nacen de huevos?",
+  "o": [
+   "Vivíparos",
+   "Ovíparos",
+   "Mamíferos",
+   "Marsupiales"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué molécula contiene la información genética?",
+  "o": [
+   "ARN",
+   "ADN",
+   "Proteína",
+   "Lípido"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es el reino al que pertenecen los humanos?",
+  "o": [
+   "Vegetal",
+   "Animalia",
+   "Fungi",
+   "Protista"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué sistema del cuerpo defiende contra enfermedades?",
+  "o": [
+   "Sistema digestivo",
+   "Sistema inmunológico",
+   "Sistema muscular",
+   "Sistema esquelético"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué órgano produce la insulina?",
+  "o": [
+   "Hígado",
+   "Páncreas",
+   "Estómago",
+   "Bazo"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cómo se llama el proceso de división celular que produce dos células idénticas?",
+  "o": [
+   "Meiosis",
+   "Mitosis",
+   "Gemación",
+   "Esporulación"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué parte de la célula controla sus actividades?",
+  "o": [
+   "Citoplasma",
+   "Núcleo",
+   "Membrana",
+   "Vacuola"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué tipo de célula no tiene núcleo definido?",
+  "o": [
+   "Eucariota",
+   "Procariota",
+   "Animal",
+   "Vegetal"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es el hueso más largo del cuerpo humano?",
+  "o": [
+   "Tibia",
+   "Fémur",
+   "Húmero",
+   "Radio"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué vitamina se produce con la luz solar en la piel?",
+  "o": [
+   "Vitamina A",
+   "Vitamina C",
+   "Vitamina D",
+   "Vitamina K"
+  ],
+  "c": 2
+ },
+ {
+  "q": "¿Cómo se llaman los seres vivos que producen su propio alimento?",
+  "o": [
+   "Heterótrofos",
+   "Autótrofos",
+   "Carnívoros",
+   "Parásitos"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué órgano realiza la filtración de la sangre y produce orina?",
+  "o": [
+   "Pulmón",
+   "Riñón",
+   "Corazón",
+   "Intestino"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el ecosistema?",
+  "o": [
+   "Solo animales",
+   "Conjunto de seres vivos, ambiente físico y sus interacciones",
+   "Solo plantas",
+   "Solo agua"
+  ],
+  "c": 1
+ }
+]

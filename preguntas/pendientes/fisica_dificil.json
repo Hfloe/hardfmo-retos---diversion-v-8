@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Cuál es el valor aproximado de la constante de Planck?",
+  "o": [
+   "6,63 x 10^-34 J·s",
+   "6,63 x 10^-24 J·s",
+   "1,38 x 10^-23 J/K",
+   "9,11 x 10^-31 kg"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué científico propuso el principio de incertidumbre?",
+  "o": [
+   "Werner Heisenberg",
+   "Niels Bohr",
+   "Erwin Schrödinger",
+   "Max Born"
+  ],
+  "c": 0
+ },
+ {
+  "q": "En relatividad especial, ¿qué le ocurre al tiempo de un objeto que se mueve a velocidades cercanas a la de la luz?",
+  "o": [
+   "Se dilata, pasa más lento",
+   "Se contrae",
+   "Se detiene siempre",
+   "No cambia"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es la carga del electrón?",
+  "o": [
+   "-1,6 x 10^-19 C",
+   "+1,6 x 10^-19 C",
+   "-9,1 x 10^-31 C",
+   "-1,6 x 10^-10 C"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué dice la segunda ley de la termodinámica?",
+  "o": [
+   "La entropía de un sistema aislado tiende a aumentar",
+   "La energía no se crea ni se destruye",
+   "El cero absoluto se puede alcanzar",
+   "El calor fluye espontáneamente de lo frío a lo caliente"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué ecuación describe la evolución de la función de onda en mecánica cuántica?",
+  "o": [
+   "Ecuación de Schrödinger",
+   "Ecuación de Maxwell",
+   "Ecuación de Bernoulli",
+   "Ecuación de Navier-Stokes"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es aproximadamente la velocidad de escape de la Tierra?",
+  "o": [
+   "11,2 km/s",
+   "7,9 km/s",
+   "9,8 km/s",
+   "25 km/s"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se llama la partícula mediadora de la fuerza electromagnética?",
+  "o": [
+   "Fotón",
+   "Gluón",
+   "Bosón W",
+   "Gravitón"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué ley relaciona la fuerza entre dos cargas puntuales con el inverso del cuadrado de su distancia?",
+  "o": [
+   "Ley de Coulomb",
+   "Ley de Faraday",
+   "Ley de Lenz",
+   "Ley de Ampère"
+  ],
+  "c": 0
+ },
+ {
+  "q": "En un circuito RLC en serie, ¿cuál es la frecuencia de resonancia?",
+  "o": [
+   "f = 1 / (2π · raíz de L·C)",
+   "f = 2π · raíz de L·C",
+   "f = R / (2π · L)",
+   "f = 1 / (2π · R · C)"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Quién explicó el efecto fotoeléctrico usando cuantos de luz?",
+  "o": [
+   "Albert Einstein",
+   "Max Planck",
+   "Niels Bohr",
+   "Louis de Broglie"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el período de un péndulo simple de longitud L?",
+  "o": [
+   "T = 2π · raíz de (L/g)",
+   "T = 2π · raíz de (g/L)",
+   "T = π · raíz de (L/g)",
+   "T = 2π · L/g"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el valor de la constante de gravitación universal G?",
+  "o": [
+   "6,67 x 10^-11 N·m²/kg²",
+   "6,67 x 10^-9 N·m²/kg²",
+   "9,8 N·m²/kg²",
+   "6,67 x 10^11 N·m²/kg²"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué tipo de radiación tiene mayor poder de penetración?",
+  "o": [
+   "Rayos gamma",
+   "Partículas alfa",
+   "Partículas beta",
+   "Luz visible"
+  ],
+  "c": 0
+ },
+ {
+  "q": "En termodinámica, un proceso isotérmico es aquel en el que...",
+  "o": [
+   "La temperatura permanece constante",
+   "El volumen permanece constante",
+   "La presión permanece constante",
+   "No hay intercambio de calor"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué ley establece que la fuerza electromotriz inducida se opone al cambio de flujo que la causa?",
+  "o": [
+   "Ley de Lenz",
+   "Ley de Ohm",
+   "Ley de Gauss",
+   "Ley de Hooke"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué relación da la longitud de onda de De Broglie de una partícula?",
+  "o": [
+   "λ = h / p",
+   "λ = h · p",
+   "λ = p / h",
+   "λ = m · v · h"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se llama el fenómeno por el que una onda se curva al pasar por una rendija muy estrecha?",
+  "o": [
+   "Difracción",
+   "Refracción",
+   "Reflexión",
+   "Dispersión"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuántos electrones puede alojar como máximo la capa n = 3 de un átomo?",
+  "o": [
+   "18",
+   "8",
+   "32",
+   "10"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué principio establece que dos fermiones no pueden ocupar el mismo estado cuántico?",
+  "o": [
+   "Principio de exclusión de Pauli",
+   "Principio de incertidumbre",
+   "Principio de superposición",
+   "Principio de Fermat"
+  ],
+  "c": 0
+ }
+]

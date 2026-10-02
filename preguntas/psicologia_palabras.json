@@ -1,0 +1,152 @@
+[
+ {
+  "p": "MENTE",
+  "t": "Mente",
+  "d": "Conjunto de procesos de pensar y sentir"
+ },
+ {
+  "p": "CONDUCTA",
+  "t": "Conducta",
+  "d": "Forma de comportarse de una persona"
+ },
+ {
+  "p": "EMOCION",
+  "t": "Emoción",
+  "d": "Reacción afectiva intensa y breve"
+ },
+ {
+  "p": "MEMORIA",
+  "t": "Memoria",
+  "d": "Capacidad de guardar y recordar información"
+ },
+ {
+  "p": "ATENCION",
+  "t": "Atención",
+  "d": "Capacidad de concentrarse en algo"
+ },
+ {
+  "p": "ESTRES",
+  "t": "Estrés",
+  "d": "Tensión del cuerpo ante la presión"
+ },
+ {
+  "p": "ANSIEDAD",
+  "t": "Ansiedad",
+  "d": "Preocupación y tensión ante el futuro"
+ },
+ {
+  "p": "EMPATIA",
+  "t": "Empatía",
+  "d": "Entender lo que siente otra persona"
+ },
+ {
+  "p": "IMPULSO",
+  "t": "Impulso",
+  "d": "Fuerza interna que lleva a actuar"
+ },
+ {
+  "p": "HABITO",
+  "t": "Hábito",
+  "d": "Conducta repetida hasta hacerse automática"
+ },
+ {
+  "p": "INSTINTO",
+  "t": "Instinto",
+  "d": "Impulso natural no aprendido"
+ },
+ {
+  "p": "TRAUMA",
+  "t": "Trauma",
+  "d": "Herida emocional por un hecho muy fuerte"
+ },
+ {
+  "p": "FREUD",
+  "t": "Freud",
+  "d": "Padre del psicoanálisis"
+ },
+ {
+  "p": "PAVLOV",
+  "t": "Pavlov",
+  "d": "Descubrió el condicionamiento clásico"
+ },
+ {
+  "p": "PIAGET",
+  "t": "Piaget",
+  "d": "Estudió el desarrollo cognitivo infantil"
+ },
+ {
+  "p": "TERAPIA",
+  "t": "Terapia",
+  "d": "Tratamiento para el bienestar emocional"
+ },
+ {
+  "p": "FOBIA",
+  "t": "Fobia",
+  "d": "Miedo intenso e irracional a algo"
+ },
+ {
+  "p": "DUELO",
+  "t": "Duelo",
+  "d": "Proceso de pérdida de un ser querido"
+ },
+ {
+  "p": "CEREBRO",
+  "t": "Cerebro",
+  "d": "Órgano que controla el pensamiento"
+ },
+ {
+  "p": "SESGO",
+  "t": "Sesgo",
+  "d": "Error sistemático al pensar o juzgar"
+ },
+ {
+  "p": "ALEGRIA",
+  "t": "Alegría",
+  "d": "Emoción positiva de felicidad"
+ },
+ {
+  "p": "TRISTEZA",
+  "t": "Tristeza",
+  "d": "Emoción por una pérdida o desilusión"
+ },
+ {
+  "p": "MIEDO",
+  "t": "Miedo",
+  "d": "Emoción ante un peligro"
+ },
+ {
+  "p": "APEGO",
+  "t": "Apego",
+  "d": "Vínculo afectivo entre el bebé y su cuidador"
+ },
+ {
+  "p": "REFLEJO",
+  "t": "Reflejo",
+  "d": "Respuesta automática del cuerpo"
+ },
+ {
+  "p": "LENGUAJE",
+  "t": "Lenguaje",
+  "d": "Sistema para comunicar ideas"
+ },
+ {
+  "p": "HIPNOSIS",
+  "t": "Hipnosis",
+  "d": "Estado de gran concentración y sugestión"
+ },
+ {
+  "p": "PSIQUE",
+  "t": "Psique",
+  "d": "Conjunto de los procesos mentales"
+ },
+ {
+  "p": "TEST",
+  "t": "Test",
+  "d": "Prueba para medir rasgos o capacidades"
+ },
+ {
+  "p": "CONFLICTO",
+  "t": "Conflicto",
+  "d": "Choque entre deseos o necesidades opuestos"
+ }
+]

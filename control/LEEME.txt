@@ -1,0 +1,54 @@
+CONTROL REMOTO Y SEGURIDAD - CHMAGSECRET
+=============================================
+
+1) CONTROLAR EL JUEGO DESDE TU PC
+---------------------------------
+El juego descarga un archivo config.json al abrirse (y cada 5 minutos). Tú lo editas en tu PC.
+
+Pasos (gratis, con GitHub Pages):
+ a. Crea cuenta en github.com y un repositorio PÚBLICO llamado "retos-config".
+ b. Sube control/config.json al repositorio.
+ c. Settings > Pages > Source: "Deploy from a branch" > main > Save.
+ d. Tu enlace será: https://TUUSUARIO.github.io/retos-config/config.json
+ e. Pega ese enlace en RemoteConfig.gd, en CONFIG_URL.
+ f. En Project > Export > Android activa el permiso INTERNET (obligatorio).
+
+Para cambiar algo: abre control/panel.html en tu PC, ajusta, descarga config.json y
+reemplázalo en GitHub (Add file > Upload files). En 1-2 minutos el cambio llega a todos.
+
+Qué controlas:
+ - version_minima : bloquea versiones viejas (ver punto 2)
+ - mantenimiento  : true bloquea el juego para todos con aviso
+ - mensaje        : texto personalizado de la pantalla de bloqueo
+ - url_actualizacion : enlace que abre el botón "Descargar actualización"
+ - nequi_numero   : cambia tu número de donación sin publicar APK nuevo
+ - tiradas_gratis : cambia el límite de tiradas gratis
+
+2) QUE LA VERSIÓN VIEJA DEJE DE FUNCIONAR
+------------------------------------------
+ - En RemoteConfig.gd hay VERSION_ACTUAL. Tu primer APK lleva 1.
+ - Cuando publiques una versión nueva: cambia VERSION_ACTUAL a 2, exporta el APK,
+   súbelo donde lo descarguen y en config.json pon "version_minima": 2.
+ - Las apps con versión 1 mostrarán "Actualización necesaria" y no podrán jugar.
+ - Importante: la PRIMERA versión que publiques ya debe traer CONFIG_URL configurado,
+   porque una APK sin ese enlace no puede ser bloqueada después.
+
+3) SEGURIDAD DEL APK
+--------------------
+Nada es 100% imposible de copiar, pero esto lo dificulta mucho:
+ a. Cifrar el PCK (recursos y scripts):
+    - Genera una clave de 256 bits (64 caracteres hex), por ejemplo en PowerShell:
+      -join ((1..64) | % { '{0:x}' -f (Get-Random -Max 16) })
+    - Project > Export > Android > pestaña "Encryption": activa "Encrypt Exported PCK"
+      y pega la clave en "Encryption Key".
+    - Para que el cifrado de scripts funcione debes usar plantillas de exportación
+      compiladas con esa misma clave (variable SCRIPT_AES256_ENCRYPTION_KEY, ver
+      docs.godotengine.org "Encrypting PCK files"). Sin eso, el juego no arranca.
+    - GUARDA LA CLAVE. Si la pierdes no puedes actualizar el juego.
+ b. Exporta en modo RELEASE (no Debug) y firma con TU keystore. Guarda el keystore
+    en un lugar seguro (sin él no puedes actualizar la app).
+ c. Activa "Use Custom Build" solo si lo necesitas; desactiva "Debuggable".
+ d. Publica en Google Play (App Signing): así el APK original no se comparte a mano.
+ e. La verificación de versión (punto 2) hace que los APK copiados y viejos dejen de
+    funcionar cuando tú lo decidas, aunque los hayan compartido.
+ f. Nunca dejes MODO_PRUEBA = true en Paywall.gd al publicar.

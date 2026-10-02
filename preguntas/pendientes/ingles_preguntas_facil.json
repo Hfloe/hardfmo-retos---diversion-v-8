@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Cómo se dice \"gato\" en inglés?",
+  "o": [
+   "Cat",
+   "Dog",
+   "Bird",
+   "Cow"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"house\"?",
+  "o": [
+   "Casa",
+   "Caballo",
+   "Hora",
+   "Mano"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se dice \"rojo\" en inglés?",
+  "o": [
+   "Red",
+   "Blue",
+   "Green",
+   "Black"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"I ___ a student.\"",
+  "o": [
+   "am",
+   "is",
+   "are",
+   "be"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"thank you\"?",
+  "o": [
+   "Gracias",
+   "Por favor",
+   "Adiós",
+   "Hola"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cuál es el plural de \"book\"?",
+  "o": [
+   "Books",
+   "Bookes",
+   "Bookies",
+   "Book"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se dice \"agua\" en inglés?",
+  "o": [
+   "Water",
+   "Wather",
+   "Watter",
+   "Weter"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"She ___ a doctor.\"",
+  "o": [
+   "is",
+   "am",
+   "are",
+   "be"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"Good morning\"?",
+  "o": [
+   "Buenos días",
+   "Buenas noches",
+   "Buenas tardes",
+   "Hasta luego"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se dice \"azul\" en inglés?",
+  "o": [
+   "Blue",
+   "Red",
+   "Yellow",
+   "White"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué número es \"seven\"?",
+  "o": [
+   "7",
+   "6",
+   "17",
+   "70"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"Monday\"?",
+  "o": [
+   "Lunes",
+   "Martes",
+   "Domingo",
+   "Viernes"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"They ___ happy.\"",
+  "o": [
+   "are",
+   "is",
+   "am",
+   "be"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se dice \"madre\" en inglés?",
+  "o": [
+   "Mother",
+   "Father",
+   "Sister",
+   "Brother"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"apple\"?",
+  "o": [
+   "Manzana",
+   "Naranja",
+   "Pera",
+   "Uva"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se dice \"hasta luego\" en inglés?",
+  "o": [
+   "See you later",
+   "Good morning",
+   "Thank you",
+   "Excuse me"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"big\"?",
+  "o": [
+   "Grande",
+   "Pequeño",
+   "Rápido",
+   "Lento"
+  ],
+  "c": 0
+ },
+ {
+  "q": "Completa: \"I have two ___.\"",
+  "o": [
+   "brothers",
+   "brother",
+   "brotheres",
+   "brothers'"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Cómo se escribe \"escuela\" en inglés?",
+  "o": [
+   "School",
+   "Scool",
+   "Shool",
+   "Schol"
+  ],
+  "c": 0
+ },
+ {
+  "q": "¿Qué significa \"to eat\"?",
+  "o": [
+   "Comer",
+   "Beber",
+   "Dormir",
+   "Correr"
+  ],
+  "c": 0
+ }
+]

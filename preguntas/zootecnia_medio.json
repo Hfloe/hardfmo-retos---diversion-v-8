@@ -1,0 +1,202 @@
+[
+ {
+  "q": "¿Qué es el destete?",
+  "o": [
+   "El nacimiento del animal",
+   "La separación de la cría de su madre para que deje de mamar",
+   "El inicio de la gestación",
+   "La vacunación"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es el porcentaje de proteína ideal en un concentrado para vacas lecheras en producción?",
+  "o": [
+   "4-6%",
+   "14-18%",
+   "35-40%",
+   "2-3%"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el calostro y por qué es importante?",
+  "o": [
+   "Leche normal sin importancia",
+   "Primera leche rica en anticuerpos que da inmunidad al recién nacido",
+   "Un tipo de pasto",
+   "Un medicamento"
+  ],
+  "c": 1
+ },
+ {
+  "q": "En cerdos, ¿qué significa conversión alimenticia?",
+  "o": [
+   "Cantidad de agua que toma",
+   "Kilos de alimento necesarios para ganar un kilo de peso",
+   "Tipo de comedero",
+   "Color del alimento"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es la temperatura normal rectal de un bovino adulto?",
+  "o": [
+   "35.0 - 36.0 C",
+   "38.0 - 39.5 C",
+   "40.5 - 42.0 C",
+   "36.5 - 37.0 C"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es un sistema silvopastoril?",
+  "o": [
+   "Solo árboles sin animales",
+   "Sistema que combina árboles, pastos y ganado en la misma área",
+   "Solo pastos sin árboles",
+   "Corrales de cemento"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué hormona desencadena el parto en la mayoría de mamíferos?",
+  "o": [
+   "Insulina",
+   "Oxitocina",
+   "Tiroxina",
+   "Adrenalina"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál de estos parásitos internos afecta comúnmente a los bovinos?",
+  "o": [
+   "Garrapata",
+   "Haemonchus contortus",
+   "Mosca",
+   "Tábano"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué significa F1 en cruzamientos?",
+  "o": [
+   "Animal enfermo",
+   "Primera generación producto del cruce de dos razas puras",
+   "Alimento formulado 1",
+   "Finca 1"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿En avicultura, qué fotoperiodo estimula la postura?",
+  "o": [
+   "6 horas de luz",
+   "14 a 16 horas de luz",
+   "0 horas de luz",
+   "24 horas de oscuridad"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la condición corporal en bovinos?",
+  "o": [
+   "El peso exacto en báscula",
+   "Evaluación visual y táctil de las reservas de grasa y músculo",
+   "El color del pelo",
+   "La altura del animal"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es la principal fuente de energía en dietas para rumiantes?",
+  "o": [
+   "Proteína",
+   "Carbohidratos estructurales y no estructurales",
+   "Vitaminas",
+   "Agua"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué raza ovina es reconocida mundialmente por la calidad de su lana?",
+  "o": [
+   "Dorper",
+   "Merino",
+   "Santa Inés",
+   "Katahdin"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el intervalo entre partos?",
+  "o": [
+   "Tiempo entre nacimiento y destete",
+   "Tiempo entre un parto y el siguiente parto de la misma hembra",
+   "Tiempo entre comidas",
+   "Tiempo de gestación"
+  ],
+  "c": 1
+ },
+ {
+  "q": "En nutrición de no rumiantes, ¿qué aminoácido suele ser el primer limitante en dietas a base de maíz y soya?",
+  "o": [
+   "Metionina",
+   "Lisina",
+   "Triptófano",
+   "Leucina"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es el flushing?",
+  "o": [
+   "Lavar los corrales",
+   "Aumento del nivel nutricional antes del servicio para mejorar la ovulación",
+   "Bañar animales",
+   "Cortar el pasto"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es el pH ruminal óptimo para una buena digestión de fibra?",
+  "o": [
+   "4.5 - 5.0",
+   "6.2 - 6.8",
+   "8.0 - 8.5",
+   "3.0 - 3.5"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué prueba se usa comúnmente para diagnosticar mastitis subclínica?",
+  "o": [
+   "Prueba de tuberculina",
+   "California Mastitis Test (CMT)",
+   "Prueba de embarazo",
+   "Prueba de sangre"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Qué es la pubertad en zootecnia?",
+  "o": [
+   "Cuando el animal deja de crecer",
+   "Cuando el animal alcanza la capacidad de reproducirse",
+   "Cuando el animal cambia de dientes",
+   "Cuando el animal se enferma"
+  ],
+  "c": 1
+ },
+ {
+  "q": "¿Cuál es la ventaja del Brahman en el trópico?",
+  "o": [
+   "Produce más lana",
+   "Tolerancia al calor, resistencia a parásitos y garrapatas",
+   "No necesita agua",
+   "Pone huevos"
+  ],
+  "c": 1
+ }
+]

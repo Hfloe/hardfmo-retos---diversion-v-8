@@ -1,0 +1,152 @@
+[
+ {
+  "p": "GANADO",
+  "t": "Ganado",
+  "d": "Conjunto de animales criados para producción"
+ },
+ {
+  "p": "ESTABLO",
+  "t": "Establo",
+  "d": "Lugar donde se guarda el ganado vacuno"
+ },
+ {
+  "p": "PASTOREO",
+  "t": "Pastoreo",
+  "d": "Alimentar a los animales en el pasto"
+ },
+ {
+  "p": "FORRAJE",
+  "t": "Forraje",
+  "d": "Alimento vegetal para el ganado"
+ },
+ {
+  "p": "VACUNO",
+  "t": "Vacuno",
+  "d": "Relativo a las vacas y los toros"
+ },
+ {
+  "p": "OVINO",
+  "t": "Ovino",
+  "d": "Relativo a las ovejas"
+ },
+ {
+  "p": "PORCINO",
+  "t": "Porcino",
+  "d": "Relativo a los cerdos"
+ },
+ {
+  "p": "CAPRINO",
+  "t": "Caprino",
+  "d": "Relativo a las cabras"
+ },
+ {
+  "p": "EQUINO",
+  "t": "Equino",
+  "d": "Relativo a los caballos"
+ },
+ {
+  "p": "GALLINERO",
+  "t": "Gallinero",
+  "d": "Lugar donde viven las gallinas"
+ },
+ {
+  "p": "LACTANCIA",
+  "t": "Lactancia",
+  "d": "Etapa en que la cría se alimenta de leche"
+ },
+ {
+  "p": "TERNERO",
+  "t": "Ternero",
+  "d": "Cría de la vaca"
+ },
+ {
+  "p": "CORDERO",
+  "t": "Cordero",
+  "d": "Cría de la oveja"
+ },
+ {
+  "p": "POTRO",
+  "t": "Potro",
+  "d": "Cría del caballo"
+ },
+ {
+  "p": "LECHON",
+  "t": "Lechón",
+  "d": "Cría del cerdo"
+ },
+ {
+  "p": "RUMIANTE",
+  "t": "Rumiante",
+  "d": "Animal que digiere en varios estómagos"
+ },
+ {
+  "p": "CORRAL",
+  "t": "Corral",
+  "d": "Espacio cercado para encerrar animales"
+ },
+ {
+  "p": "VACUNA",
+  "t": "Vacuna",
+  "d": "Protege al animal contra enfermedades"
+ },
+ {
+  "p": "COLMENA",
+  "t": "Colmena",
+  "d": "Casa de las abejas"
+ },
+ {
+  "p": "MIEL",
+  "t": "Miel",
+  "d": "Dulce producido por las abejas"
+ },
+ {
+  "p": "LANA",
+  "t": "Lana",
+  "d": "Fibra que se obtiene de la oveja"
+ },
+ {
+  "p": "PIENSO",
+  "t": "Pienso",
+  "d": "Alimento seco preparado para animales"
+ },
+ {
+  "p": "RAZA",
+  "t": "Raza",
+  "d": "Grupo de animales con rasgos comunes"
+ },
+ {
+  "p": "CRUCE",
+  "t": "Cruce",
+  "d": "Unión de razas distintas para mejorar"
+ },
+ {
+  "p": "PARASITO",
+  "t": "Parásito",
+  "d": "Organismo que vive a costa de otro"
+ },
+ {
+  "p": "HENO",
+  "t": "Heno",
+  "d": "Pasto cortado y seco para alimentar"
+ },
+ {
+  "p": "SILO",
+  "t": "Silo",
+  "d": "Depósito para guardar forraje o granos"
+ },
+ {
+  "p": "YEGUA",
+  "t": "Yegua",
+  "d": "Hembra del caballo"
+ },
+ {
+  "p": "GESTACION",
+  "t": "Gestación",
+  "d": "Tiempo de embarazo de un animal"
+ },
+ {
+  "p": "POLLO",
+  "t": "Pollo",
+  "d": "Ave joven criada para su carne"
+ }
+]
